@@ -10,10 +10,10 @@ config_version: 'LTS'
 schema_list:
   - schema: wanxiang
   - schema: wanxiang_pro
-  #- schema: japanese
+  - schema: japanese
   - schema: easy_en
   - schema: combo_pinyin_split
-  #- schema: combo_pinyin_engrammer
+  - schema: combo_pinyin_engrammer
 
 
 # 菜单

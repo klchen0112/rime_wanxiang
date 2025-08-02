@@ -64,15 +64,15 @@ engine:
     - simplifier@kaomoji                            # 颜文字
     - uniquifier
 
-predictor:
-  db: wanxiang-lts-zh-predict.db
-# 每次最大预测候选数
-# 默认为 0，表示显示所有候选数
-# 您可以将其设置为与 page_size 相同，这样 period 就不会触发下一页
-  max_candidates: 5
-# 最大连续预测次数
-# 默认为 0，表示无限制
-  max_iterations: 1
+#predictor:
+#  db: wanxiang-lts-zh-predict.db
+## 每次最大预测候选数
+## 默认为 0，表示显示所有候选数
+## 您可以将其设置为与 page_size 相同，这样 period 就不会触发下一页
+#  max_candidates: 5
+## 最大连续预测次数
+## 默认为 0，表示无限制
+#  max_iterations: 1
 
 chord_composer:
 
