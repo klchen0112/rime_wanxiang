@@ -12,6 +12,8 @@ schema_list:
   - schema: wanxiang_pro
   - schema: japanese
   - schema: easy_en
+  - schema: combo_pinyin_split
+  - schema: combo_pinyin_engrammer
 
 
 # 菜单
