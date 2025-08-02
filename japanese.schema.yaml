@@ -9,7 +9,7 @@ schema:
     author:
         - ensigma96 <ensigma96@gmail.com>
     dependencies:
-        - rime_frost
+        - wanxiang
         - stroke
 
 switches:
@@ -82,8 +82,10 @@ translator:
 putonghua_to_kanji_lookup:
     tag: putonghua_to_kanji_lookup
     prefix: "`" # 獨用jyutping_lookup反查在反查鍵「`」之後再鍵入〔大寫〕「J」
-    dictionary: rime_frost
+    dictionary: wanxiang
     preedit_format:
+        # 万象词库兼容
+        - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
         - xform/([jqxy])v/$1u/ # 显示为 ju qu xu yu
         # - xform/([nl])v/$1ü/    # 显示为 nü lü
         # - xform/([nl])ue/$1üe/  # 显示为 nüe lüe

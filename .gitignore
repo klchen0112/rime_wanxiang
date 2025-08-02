@@ -5,3 +5,8 @@ lua/seq_words.lua
 dist
 pro-*-fuzhu-dicts
 release_notes.md
+build
+installation.yaml
+user.yaml
+*.userdb
+lua/sequence.txt

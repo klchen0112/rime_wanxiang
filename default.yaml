@@ -10,10 +10,10 @@ config_version: 'LTS'
 schema_list:
   - schema: wanxiang
   - schema: wanxiang_pro
-  - schema: japanese
+  #- schema: japanese
   - schema: easy_en
   - schema: combo_pinyin_split
-  - schema: combo_pinyin_engrammer
+  #- schema: combo_pinyin_engrammer
 
 
 # 菜单
@@ -46,10 +46,14 @@ switcher:
     - tone_hint
     - chinese_english
     - search_single_char
+    - kaomoji
   fold_options: true            # 呼出时是否折叠，多方案时建议折叠 true ，一个方案建议展开 false
   abbreviate_options: true      # 折叠时是否缩写选项
   option_list_separator: ' / '  # 折叠时的选项分隔符
 
+punctuator:
+  digit_separators: ":,."  #数字分隔符，系统逻辑是在中文状态下输入数字后继续输入句号按下两次即输入半角状态
+  __include: wanxiang_symbols:/symbol_table         # 从 wanxiang_symbols.yaml 导入所有符号配置
 
 # 中西文切换
 #

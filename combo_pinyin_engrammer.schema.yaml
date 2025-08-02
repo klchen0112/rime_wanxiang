@@ -59,9 +59,6 @@ engine:
     - punct_translator
     - script_translator
   filters:
-    - lua_filter@*is_in_user_dict # 用户词典的词加上一个*
-    - lua_filter@corrector                          # 错音错字提示
-    - lua_filter@long_word_filter                   # 长词优先（顺序要求：长词优先 > Emoji）
     - simplifier@traditionalize # 简繁切换
     - simplifier@emoji # Emoji
     - simplifier@kaomoji                            # 颜文字
