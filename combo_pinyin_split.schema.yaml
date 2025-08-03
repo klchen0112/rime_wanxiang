@@ -106,6 +106,10 @@ key_binder:
 recognizer:
   import_preset: default
 
+editor:
+  bindings:
+    BackSpace: back_syllable
+
 __patch:
   # 默認配置爲兼容佈局。
   - combo_pinyin_layouts:/use_split_layout
