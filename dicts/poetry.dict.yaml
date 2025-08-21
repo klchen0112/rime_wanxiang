@@ -1035,7 +1035,7 @@ sort: by_weight
 答徐秀才	dá xú xiù cái	8
 大言亦然	dà yán yì rán	8
 答杨奉礼	dá yáng fèng lǐ	8
-大一通之	dà yī tōng zhī	8
+大一通之	dà yí tòng zhī	8
 大阴解之	dà yīn jiě zhī	8
 大渊油油	dà yuān yóu yóu	8
 大之殷也	dà zhī yīn yě	8
@@ -3906,6 +3906,7 @@ sort: by_weight
 龙阳县歌	lóng yáng xiàn gē	8
 漏声正水	lòu shēng zhèng shuǐ	8
 楼台歌舞	lóu tái gē wǔ	8
+露天晓角	lòu tiān xiǎo jiǎo	8
 路残月在	lù cán yuè zài	8
 路车有奭	lù chē yǒu shì	8
 路出名区	lù chū míng qū	6
@@ -3925,7 +3926,6 @@ sort: by_weight
 鲁人猎较	lǔ rén liè jiào	8
 庐山山色	lú shān shān sè	8
 鹿斯之奔	lù sī zhī bēn	8
-露天晓角	lù tiān xiǎo jiǎo	8
 卢仝塌沙	lú tóng tā shā	8
 鹿头是守	lù tóu shì shǒu	8
 卢头陀诗	lú tóu tuó shī	8
@@ -7803,7 +7803,7 @@ sort: by_weight
 物有死生	wù yǒu sǐ shēng	8
 无有所迎	wú yǒu suǒ yíng	8
 物有万类	wù yǒu wàn lèi	8
-无有为有	wú yǒu wéi yǒu	8
+无有为有	wú yǒu wèi yǒu	8
 无有要约	wú yǒu yào yuē	8
 吾有一言	wú yǒu yì yán	8
 无有隐侧	wú yǒu yǐn cè	8
@@ -11070,7 +11070,7 @@ sort: by_weight
 爱此及秋枯	ài cǐ jí qiū kū	6
 爱此江边好	ài cǐ jiāng biān hǎo	6
 爱此林下宿	ài cǐ lín xià sù	6
-爱此露的皪	ài cǐ lù de lì	6
+爱此露的皪	ài cǐ lòu de lì	6
 爱此南涧头	ài cǐ nán jiàn tóu	6
 爱此千竿碧	ài cǐ qiān gān bì	6
 爱此青苔光	ài cǐ qīng tái guāng	6
@@ -12648,7 +12648,7 @@ sort: by_weight
 白发欺贫贱	bái fà qī pín jiàn	6
 白发千茎雪	bái fā qiān jīng xuě	6
 白发强临觞	bái fà qiáng lín shāng	6
-白发悄无语	bái fà qiāo wú yǔ	6
+白发悄无语	bái fà qiǎo wú yǔ	6
 白发日相亲	bái fà rì xiāng qīn	6
 白发日夜催	bái fà rì yè cuī	6
 白发日夜新	bái fà rì yè xīn	6
@@ -13332,7 +13332,6 @@ sort: by_weight
 白石洞中人	bái shí dòng zhōng rén	6
 百世飞鸟速	bǎi shì fēi niǎo sù	6
 白石封苍苔	bái shí fēng cāng tái	6
-柏氏功弥存	bǎi shì gōng mí cún	6
 百事皆成昔	bǎi shì jiē chéng xī	6
 白石今出没	bái shí jīn chū mò	6
 白石明可把	bái shí míng kě bǎ	6
@@ -13698,7 +13697,6 @@ sort: by_weight
 白月岂知心	bái yuè qǐ zhī xīn	6
 百越去魂断	bǎi yuè qù hún duàn	6
 百粤雾纷满	bǎi yuè wù fēn mǎn	6
-柏悦心应尔	bǎi yuè xīn yīng ěr	6
 百越余生聚	bǎi yuè yú shēng jù	6
 拜月妆楼上	bài yuè zhuāng lóu shàng	6
 白云半峰起	bái yún bàn fēng qǐ	6
@@ -18090,6 +18088,7 @@ sort: by_weight
 波声卷平陆	bō shēng juǎn píng lù	6
 博士本秦官	bó shì běn qín guān	6
 卜师非熊罴	bo shī fēi xióng pí	6
+柏氏功弥存	bó shì gōng mí cún	6
 博士官犹冷	bó shì guān yóu lěng	6
 卜食过安爻	bo shí guò ān yáo	6
 博士熟经据	bó shì shú jīng jù	6
@@ -18176,6 +18175,7 @@ sort: by_weight
 勃郁吾累怒	bó yù wú lèi nù	6
 伯禹亦不如	bó yǔ yì bù rú	6
 波月动连珠	bō yuè dòng lián zhū	6
+柏悦心应尔	bó yuè xīn yīng ěr	6
 拨云寻古道	bō yún xún gǔ dào	6
 勃云走轰霆	bó yún zǒu hōng tíng	6
 卜葬于故墓	bo zàng yú gù mù	6
@@ -18477,7 +18477,7 @@ sort: by_weight
 不得采苓去	bù dé cǎi líng qù	6
 不得长欢乐	bù dé cháng huān lè	6
 不得常少年	bù dé cháng shào nián	6
-不得长相随	bù dé cháng xiàng suí	6
+不得长相随	bù dé cháng xiāng suí	6
 不得长依止	bù dé cháng yī zhǐ	6
 不得充王赋	bù dé chōng wáng fù	6
 不得从之游	bù dé cóng zhī yóu	6
@@ -26879,7 +26879,7 @@ sort: by_weight
 陈亡三百年	chén wáng sān bǎi nián	6
 陈王徒作赋	chén wáng tú zuò fù	6
 沉为下土民	chén wéi xià tǔ mín	6
-尘为有漏因	chén wéi yǒu lòu yīn	6
+尘为有漏因	chén wèi yǒu lòu yīn	6
 臣未之闻也	chén wèi zhī wén yě	6
 宸文象纬回	chén wén xiàng wěi huí	6
 晨无朝谒劳	chén wú cháo yè láo	6
@@ -27482,10 +27482,10 @@ sort: by_weight
 城楼入醉眠	chéng lóu rù zuì mián	6
 城楼下带山	chéng lóu xià dài shān	6
 城楼月易低	chéng lóu yuè yì dī	6
+承露在丰镐	chéng lòu zài fēng hào	6
 城楼枕南浦	chéng lóu zhěn nán pǔ	6
 城楼枕水湄	chéng lóu zhěn shuǐ méi	6
 承露调天供	chéng lù diào tiān gōng	6
-承露在丰镐	chéng lù zài fēng hào	6
 乘鸾著玉鞭	chéng luán zhù yù biān	6
 乘鸾自不回	chéng luán zì bù huí	6
 成轮疑璧影	chéng lún yí bì yǐng	6
@@ -30397,7 +30397,7 @@ sort: by_weight
 出笼鹤翩翩	chū lóng hè piān piān	6
 出笼穷短翮	chū lóng qióng duǎn hé	6
 处乱不为亲	chù luàn bú wèi qīn	6
-初乱一水碧	chū luàn yī shuǐ bì	6
+初乱一水碧	chū luàn yì shuǐ bì	6
 初落海榴花	chū luò hǎi liú huā	6
 出萝已亭午	chū luó yǐ tíng wǔ	6
 黜落至公时	chù luò zhì gōng shí	6
@@ -34062,11 +34062,11 @@ sort: by_weight
 此去拜新职	cǐ qù bài xīn zhí	6
 此去必不归	cǐ qù bì bù guī	6
 此去别愁轻	cǐ qù bié chóu qīng	6
+此去不重来	cǐ qù bù chóng lái	6
 此去不堪别	cǐ qù bù kān bié	6
 此曲不可终	cǐ qǔ bù kě zhōng	6
 此曲不可奏	cǐ qǔ bù kě zòu	6
 此去不徒然	cǐ qù bù tú rán	6
-此去不重来	cǐ qù bú zhòng lái	6
 此去长樵采	cǐ qù cháng qiáo cǎi	6
 此曲诚不易	cǐ qǔ chéng bú yì	6
 此去答恩私	cǐ qù dá ēn sī	6
@@ -36169,7 +36169,7 @@ sort: by_weight
 大壑谁非水	dà hè shuí fēi shuǐ	6
 大壑随阶转	dà hè suí jiē zhuǎn	6
 大河注东溟	dà hé zhù dōng míng	6
-大葫芦乾枯	dà hú lú qián kū	6
+大葫芦乾枯	dà hú lu qián kū	6
 大化不暂留	dà huà bù zàn liú	6
 大化忽流斡	dà huà hū liú wò	6
 大化中一芥	dà huà zhōng yī jiè	6
@@ -36785,7 +36785,7 @@ sort: by_weight
 玳席珍羞荐	dài xí zhēn xiū jiàn	6
 待贤开相府	dài xián kāi xiāng fǔ	6
 带襭紫蒲萄	dài xié zǐ pú táo	6
-戴星渡一水	dài xīng dù yī shuǐ	6
+戴星渡一水	dài xīng dù yì shuǐ	6
 待醒方送君	dài xǐng fāng sòng jūn	6
 带星飞夏箭	dài xīng fēi xià jiàn	6
 戴星兼抱松	dài xīng jiān bào sōng	6
@@ -36893,7 +36893,7 @@ sort: by_weight
 但爱微波清	dàn ài wēi bō qīng	6
 但爱兹岭高	dàn ài zī lǐng gāo	6
 淡白秋来日	dàn bái qiū lái rì	6
-但报长相忆	dàn bào cháng xiàng yì	6
+但报长相忆	dàn bào cháng xiāng yì	6
 胆薄多忧惧	dǎn báo duō yōu jù	6
 但报菊花开	dàn bào jú huā kāi	6
 但悲采用迟	dàn bēi cǎi yòng chí	6
@@ -37310,7 +37310,7 @@ sort: by_weight
 但明河影下	dàn míng hé yǐng xià	6
 但莫管春寒	dàn mò guǎn chūn hán	6
 淡墨苔晕青	dàn mò tái yūn qīng	6
-旦暮长相随	dàn mù cháng xiàng suí	6
+旦暮长相随	dàn mù cháng xiāng suí	6
 旦暮华阳洞	dàn mù huá yáng dòng	6
 旦暮见青山	dàn mù jiàn qīng shān	6
 旦暮两蔬食	dàn mù liǎng shū shí	6
@@ -37684,7 +37684,7 @@ sort: by_weight
 但殷鄞折取	dàn yīn yín zhé qǔ	6
 但应洁斋俟	dàn yīng jié zhāi qí	6
 但营数斗禄	dàn yíng shù dòu lù	6
-但有长相思	dàn yǒu cháng xiàng sī	6
+但有长相思	dàn yǒu cháng xiāng sī	6
 但有崔州平	dàn yǒu cuī zhōu píng	6
 但有村名存	dàn yǒu cūn míng cún	6
 但有犊角茧	dàn yǒu dú jiǎo jiǎn	6
@@ -39017,7 +39017,7 @@ sort: by_weight
 得米不盈甔	dé mǐ bù yíng dān	6
 得米日已晏	dé mǐ rì yǐ yàn	6
 得米如得珠	dé mǐ rú dé zhū	6
-得免长相思	dé miǎn cháng xiàng sī	6
+得免长相思	dé miǎn cháng xiāng sī	6
 得妙甘公书	dé miào gān gōng shū	6
 得名岂其心	dé míng qǐ qí xīn	6
 得名未觉晚	dé míng wèi jué wǎn	6
@@ -39318,7 +39318,7 @@ sort: by_weight
 登高见百里	dēng gāo jiàn bǎi lǐ	6
 登高见彼汾	dēng gāo jiàn bǐ fén	6
 登高见山水	dēng gāo jiàn shān shuǐ	6
-登高九曲门	dēng gāo jiǔ qǔ mén	6
+登高九曲门	dēng gāo jiǔ qū mén	6
 登高九日初	dēng gāo jiǔ rì chū	6
 登高堪断肠	dēng gāo kān duàn cháng	6
 登高览旧都	dēng gāo lǎn jiù dū	6
@@ -40324,7 +40324,7 @@ sort: by_weight
 地与东城接	dì yǔ dōng chéng jiē	6
 地狱何须问	dì yù hé xū wèn	6
 递与今人传	dì yǔ jīn rén chuán	6
-翟羽旧传名	dí yǔ jiù chuán míng	6
+翟羽旧传名	dí yǔ jiù zhuàn míng	6
 地与南越错	dì yǔ nán yuè cuò	6
 低于砂中骨	dī yú shā zhōng gǔ	6
 地与山根裂	dì yǔ shān gēn liè	6
@@ -41927,7 +41927,7 @@ sort: by_weight
 东谿忆垂钓	dōng xī yì chuí diào	6
 东谿忆汝处	dōng xī yì rǔ chù	6
 东西异石根	dōng xi yì shí gēn	6
-东西一水隔	dōng xi yī shuǐ gé	6
+东西一水隔	dōng xi yì shuǐ gé	6
 动息在风水	dòng xī zài fēng shuǐ	6
 东西遭世难	dōng xi zāo shì nán	6
 东西值松柏	dōng xi zhí sōng bǎi	6
@@ -47078,7 +47078,7 @@ sort: by_weight
 方欲涉巨川	fāng yù shè jù chuān	6
 方与天地长	fāng yǔ tiān dì cháng	6
 防虞要徙薪	fáng yú yào xǐ xīn	6
-防隅一水关	fáng yú yī shuǐ guān	6
+防隅一水关	fáng yú yì shuǐ guān	6
 访余咏新文	fǎng yú yǒng xīn wén	6
 方与紫霞升	fāng yǔ zǐ xiá shēng	6
 芳园罢乐游	fāng yuán bà lè yóu	6
@@ -47755,9 +47755,9 @@ sort: by_weight
 非是隔阳和	fēi shì gé yáng hé	6
 非是淮阳薄	fēi shì huái yáng báo	6
 非是还家路	fēi shì huán jiā lù	6
-非是藉秋风	fēi shì jí qiū fēng	6
 非事颊舌竞	fēi shì jiá shé jìng	6
 非时将安适	fēi shí jiāng ān shì	6
+非是藉秋风	fēi shì jiè qiū fēng	6
 非是接舆狂	fēi shì jiē yú kuáng	6
 非是竞繁华	fēi shì jìng fán huá	6
 非是看花期	fēi shì kàn huā qī	6
@@ -50645,7 +50645,7 @@ sort: by_weight
 凤苑先吹晚	fèng yuàn xiān chuī wǎn	6
 峰远行未极	fēng yuǎn xíng wèi jí	6
 风月不相闻	fēng yuè bù xiāng wén	6
-风月长相知	fēng yuè cháng xiàng zhī	6
+风月长相知	fēng yuè cháng xiāng zhī	6
 风月芳菲节	fēng yuè fāng fēi jié	6
 风月共谁赏	fēng yuè gòng shuí shǎng	6
 风月故人杯	fēng yuè gù rén bēi	6
@@ -50758,7 +50758,7 @@ sort: by_weight
 风枝不可静	fēng zhī bù kě jìng	6
 风枝割永痛	fēng zhī gē yǒng tòng	6
 奉职各祗敬	fèng zhí gè zhī jìng	6
-风枝撼调调	fēng zhī hàn tiáo diào	6
+风枝撼调调	fēng zhī hàn diào diào	6
 风枝惊暗鹊	fēng zhī jīng àn què	6
 风止客帆收	fēng zhǐ kè fān shōu	6
 封植来几时	fēng zhí lái jǐ shí	6
@@ -52473,7 +52473,7 @@ sort: by_weight
 复与诸弟子	fù yǔ zhū dì zǐ	6
 敷腴竹马郎	fū yú zhú mǎ láng	6
 俯渊测浮云	fǔ yuān cè fú yún	6
-府掾有包子	fǔ yuàn yǒu bāo zǐ	6
+府掾有包子	fǔ yuàn yǒu bāo zi	6
 浮月带江寒	fú yuè dài jiāng hán	6
 斧钺下青冥	fǔ yuè xià qīng míng	6
 浮云暗长路	fú yún àn cháng lù	6
@@ -55163,7 +55163,7 @@ sort: by_weight
 更爱云林间	gèng ài yún lín jiān	6
 更把鸡骨灼	gèng bǎ jī gǔ zhuó	6
 更抱别离酸	gèng bào bié lí suān	6
-更报长相思	gèng bào cháng xiàng sī	6
+更报长相思	gèng bào cháng xiāng sī	6
 更悲江畔柳	gèng bēi jiāng pàn liǔ	6
 更悲秦楼月	gèng bēi qín lóu yuè	6
 更悲泉火灭	gèng bēi quán huǒ miè	6
@@ -57326,7 +57326,6 @@ sort: by_weight
 故古今不二	gù gǔ jīn bú èr	6
 故故满青天	gù gù mǎn qīng tiān	6
 汩汩松上驶	gǔ gǔ sōng shàng shǐ	6
-呱呱游子吟	gū gū yóu zǐ yín	6
 故故语相惊	gù gù yǔ xiāng jīng	6
 孤馆闭寒木	gū guǎn bì hán mù	6
 古观闭闲门	gǔ guān bì xián mén	6
@@ -57732,7 +57731,7 @@ sort: by_weight
 故临官道边	gù lín guān dào biān	6
 故林归宿处	gù lín guī sù chù	6
 故林归未得	gù lín guī wèi dé	6
-故林怀柏悦	gù lín huái bǎi yuè	6
+故林怀柏悦	gù lín huái bó yuè	6
 故林嗟满岁	gù lín jiē mǎn suì	6
 故林日已远	gù lín rì yǐ yuǎn	6
 故林棠树秋	gù lín táng shù qiū	6
@@ -59103,6 +59102,7 @@ sort: by_weight
 瓜葛附婚友	guā gé fù hūn yǒu	6
 刮骨都无痛	guā gǔ dōu wú tòng	6
 挂骨于其间	guà gǔ yú qí jiān	6
+呱呱游子吟	guā guā yóu zǐ yín	6
 挂冠不待年	guà guān bú dài nián	6
 挂冠常苦迟	guà guān cháng kǔ chí	6
 挂冠东都门	guà guān dōng dū mén	6
@@ -59702,7 +59702,7 @@ sort: by_weight
 官舍柳林静	guān shè liǔ lín jìng	6
 官舍梅初紫	guān shè méi chū zǐ	6
 馆舍朋簪旧	guǎn shè péng zān jiù	6
-官舍悄无事	guān shè qiāo wú shì	6
+官舍悄无事	guān shè qiǎo wú shì	6
 馆舍幸相近	guǎn shè xìng xiāng jìn	6
 官舍映枫林	guān shè yìng fēng lín	6
 官舍有丛竹	guān shè yǒu cóng zhú	6
@@ -66901,7 +66901,7 @@ sort: by_weight
 何言野人意	hé yán yě rén yì	6
 何言峄山树	hé yán yì shān shù	6
 何言一时事	hé yán yì shí shì	6
-何言一水浅	hé yán yī shuǐ qiǎn	6
+何言一水浅	hé yán yì shuǐ qiǎn	6
 何言永不发	hé yán yǒng bù fā	6
 何言幽咽所	hé yán yōu yè suǒ	6
 何言在阴者	hé yán zài yīn zhě	6
@@ -66957,7 +66957,7 @@ sort: by_weight
 何意苍梧云	hé yì cāng wú yún	6
 何以厕琳球	hé yǐ cè lín qiú	6
 何意常窘迫	hé yì cháng jiǒng pò	6
-何以长相守	hé yǐ cháng xiàng shǒu	6
+何以长相守	hé yǐ cháng xiāng shǒu	6
 荷衣尘不染	hé yī chén bù rǎn	6
 赫奕成洪炉	hè yì chéng hóng lú	6
 何异城上鸱	hé yì chéng shàng chī	6
@@ -67721,7 +67721,7 @@ sort: by_weight
 红芳怜静色	hóng fāng lián jìng sè	6
 红芳照水荷	hóng fāng zhào shuǐ hé	6
 虹飞百尺桥	hóng fēi bǎi chǐ qiáo	6
-鸿飞白露天	hóng fēi bái lù tiān	6
+鸿飞白露天	hóng fēi bái lòu tiān	6
 鸿飞极浦斜	hóng fēi jí pǔ xié	6
 鸿飞入杳冥	hóng fēi rù yǎo míng	6
 鸿飞万里天	hóng fēi wàn lǐ tiān	6
@@ -71652,7 +71652,7 @@ sort: by_weight
 黄河经海内	huáng hé jīng hǎi nèi	6
 黄鹤久不来	huáng hè jiǔ bù lái	6
 黄河九回曲	huáng hé jiǔ huí qǔ	6
-黄河九曲流	huáng hé jiǔ qǔ liú	6
+黄河九曲流	huáng hé jiǔ qū liú	6
 黄河流活活	huáng hé liú huó huó	6
 黄河流向东	huáng hé liú xiàng dōng	6
 黄鹤绕碧树	huáng hè rào bì shù	6
@@ -73461,7 +73461,7 @@ sort: by_weight
 回舟入剡乡	huí zhōu rù shàn xiāng	6
 回舟随晚涛	huí zhōu suí wǎn tāo	6
 回舟狎钓翁	huí zhōu xiá diào wēng	6
-回舟一水香	huí zhōu yī shuǐ xiāng	6
+回舟一水香	huí zhōu yì shuǐ xiāng	6
 回舟映沙屿	huí zhōu yìng shā yǔ	6
 回舟月上行	huí zhōu yuè shàng xíng	6
 回舟坐客时	huí zhōu zuò kè shí	6
@@ -76023,7 +76023,7 @@ sort: by_weight
 几闻投剑客	jǐ wén tóu jiàn kè	6
 即问缘何事	jí wèn yuán hé shì	6
 继文遵后轨	jì wén zūn hòu guǐ	6
-寄我长相思	jì wǒ cháng xiàng sī	6
+寄我长相思	jì wǒ cháng xiāng sī	6
 及我辞云陛	jí wǒ cí yún bì	6
 寄我孤桐琴	jì wǒ gū tóng qín	6
 及我官满时	jí wǒ guān mǎn shí	6
@@ -78743,7 +78743,7 @@ sort: by_weight
 建中即藩守	jiàn zhōng jí fān shǒu	6
 监州好事者	jiān zhōu hào shì zhě	6
 见竹不见人	jiàn zhú bú jiàn rén	6
-见竹长相忆	jiàn zhú cháng xiàng yì	6
+见竹长相忆	jiàn zhú cháng xiāng yì	6
 见主承休命	jiàn zhǔ chéng xiū mìng	6
 翦竹开广庭	jiǎn zhú kāi guǎng tíng	6
 剪烛清光发	jiǎn zhú qīng guāng fā	6
@@ -79539,7 +79539,7 @@ sort: by_weight
 江流向北宽	jiāng liú xiàng běi kuān	6
 江流雁叫哀	jiāng liú yàn jiào āi	6
 江流已变更	jiāng liú yǐ biàn gēng	6
-江流一水通	jiāng liú yī shuǐ tōng	6
+江流一水通	jiāng liú yì shuǐ tōng	6
 江流意自迟	jiāng liú yì zì chí	6
 江流映朱户	jiāng liú yìng zhū hù	6
 江流照飞甍	jiāng liú zhào fēi méng	6
@@ -79872,7 +79872,7 @@ sort: by_weight
 江山自环拥	jiāng shān zì huán yōng	6
 江上黯消魂	jiāng shàng àn xiāo hún	6
 江上别流人	jiāng shàng bié liú rén	6
-江上长相忆	jiāng shàng cháng xiàng yì	6
+江上长相忆	jiāng shàng cháng xiāng yì	6
 江上潮有声	jiāng shàng cháo yǒu shēng	6
 江上春常早	jiāng shàng chūn cháng zǎo	6
 江上春流满	jiāng shàng chūn liú mǎn	6
@@ -84047,7 +84047,7 @@ sort: by_weight
 今夜重吟看	jīn yè zhòng yín kàn	6
 近驿板桥新	jìn yì bǎn qiáo xīn	6
 今亦不冻馁	jīn yì bú dòng něi	6
-今已长相思	jīn yǐ cháng xiàng sī	6
+今已长相思	jīn yǐ cháng xiāng sī	6
 今依道德淳	jīn yī dào dé chún	6
 今已得兔鱼	jīn yǐ dé tù yú	6
 锦衣都未著	jǐn yī dōu wèi zhù	6
@@ -85271,7 +85271,7 @@ sort: by_weight
 经日懒相求	jīng rì lǎn xiāng qiú	6
 竟日留欢乐	jìng rì liú huān lè	6
 净日暖烟萝	jìng rì nuǎn yān luó	6
-竟日悄无事	jìng rì qiāo wú shì	6
+竟日悄无事	jìng rì qiǎo wú shì	6
 竟日数里间	jìng rì shù lǐ jiān	6
 竟日双鸾止	jìng rì shuāng luán zhǐ	6
 竟日忘冠带	jìng rì wàng guàn dài	6
@@ -85958,7 +85958,7 @@ sort: by_weight
 九辨人犹摈	jiǔ biàn rén yóu bìn	6
 久便云水乡	jiǔ biàn yún shuǐ xiāng	6
 久别鬓毛秋	jiǔ bié bìn máo qiū	6
-久别长相忆	jiǔ bié cháng xiàng yì	6
+久别长相忆	jiǔ bié cháng xiāng yì	6
 久别对初归	jiǔ bié duì chū guī	6
 久别二室间	jiǔ bié èr shì jiān	6
 久别或迁易	jiǔ bié huò qiān yì	6
@@ -86016,7 +86016,6 @@ sort: by_weight
 九重中叶启	jiǔ chóng zhōng yè qǐ	6
 旧楚枫犹在	jiù chǔ fēng yóu zài	6
 久处誓不谖	jiǔ chù shì bù xuān	6
-旧传词赋客	jiù chuán cí fù kè	6
 酒船回太白	jiǔ chuán huí tài bái	6
 九春开上节	jiǔ chūn kāi shàng jié	6
 酒醇无巷深	jiǔ chún wú xiàng shēn	6
@@ -86496,9 +86495,9 @@ sort: by_weight
 就求无所得	jiù qiú wú suǒ dé	6
 九秋行已暮	jiǔ qiū xíng yǐ mù	6
 九衢陈广乐	jiǔ qú chén guǎng yuè	6
-九曲当骇容	jiǔ qǔ dāng hài róng	6
+九曲当骇容	jiǔ qū dāng hài róng	6
 旧曲翻调笑	jiù qǔ fān tiáo xiào	6
-九曲非外蕃	jiǔ qǔ fēi wài fān	6
+九曲非外蕃	jiǔ qū fēi wài fān	6
 九衢横逝水	jiǔ qú héng shì shuǐ	6
 九衢槐柳中	jiǔ qú huái liǔ zhōng	6
 九衢林马挝	jiǔ qú lín mǎ wō	6
@@ -87052,6 +87051,7 @@ sort: by_weight
 酒助闲平乐	jiǔ zhù xián píng lè	6
 酒著讶寒轻	jiǔ zhù yà hán qīng	6
 久住亦非强	jiǔ zhù yì fēi qiáng	6
+旧传词赋客	jiù zhuàn cí fù kè	6
 九转风烟合	jiǔ zhuàn fēng yān hé	6
 九转兼是给	jiǔ zhuàn jiān shì gěi	6
 九转莫飞去	jiǔ zhuàn mò fēi qù	6
@@ -97683,7 +97683,7 @@ sort: by_weight
 梁侯上卿秀	liáng hóu shàng qīng xiù	6
 良候斯为美	liáng hòu sī wéi měi	6
 两虎不可斗	liǎng hǔ bù kě dòu	6
-两葫芦俱倒	liǎng hú lú jù dào	6
+两葫芦俱倒	liǎng hú lu jù dào	6
 凉花拂户牖	liáng huā fú hù yǒu	6
 梁坏吾安仰	liáng huài wú ān yǎng	6
 两怀萦别绪	liǎng huái yíng bié xù	6
@@ -98883,7 +98883,7 @@ sort: by_weight
 林壑罢樵渔	lín hè bà qiáo yú	6
 林壑废春耕	lín hè fèi chūn gēng	6
 林壑久已芜	lín hè jiǔ yǐ wú	6
-林壑悄无尘	lín hè qiāo wú chén	6
+林壑悄无尘	lín hè qiǎo wú chén	6
 林壑人事少	lín hè rén shì shǎo	6
 林壑曙云飞	lín hè shǔ yún fēi	6
 林壑宛相亲	lín hè wǎn xiāng qīn	6
@@ -99209,7 +99209,7 @@ sort: by_weight
 林泉明月在	lín quán míng yuè zài	6
 林泉岘北川	lín quán xiàn běi chuān	6
 林泉先得性	lín quán xiān dé xìng	6
-林泉一水通	lín quán yī shuǐ tōng	6
+林泉一水通	lín quán yì shuǐ tōng	6
 林泉应问我	lín quán yīng wèn wǒ	6
 林泉恣探历	lín quán zì tàn lì	6
 林缺湖光漏	lín quē hú guāng lòu	6
@@ -101784,6 +101784,8 @@ sort: by_weight
 楼台照海色	lóu tái zhào hǎi sè	6
 楼台重蜃气	lóu tái zhòng shèn qì	6
 楼台昼影迟	lóu tái zhòu yǐng chí	6
+露天厨作泞	lòu tiān chú zuò nìng	6
+露天星上月	lòu tiān xīng shàng yuè	6
 楼头俯首看	lóu tóu fǔ shǒu kàn	6
 楼头广陵近	lóu tóu guǎng líng jìn	6
 楼头桃李疏	lóu tóu táo lǐ shū	6
@@ -102355,10 +102357,8 @@ sort: by_weight
 露台湛空明	lù tái zhàn kōng míng	6
 鹭涛开碧海	lù tāo kāi bì hǎi	6
 鹭涛清梵彻	lù tāo qīng fàn chè	6
-露天厨作泞	lù tiān chú zuò nìng	6
 炉添龙脑炷	lú tiān lóng nǎo zhù	6
 炉添没后香	lú tiān méi hòu xiāng	6
-露天星上月	lù tiān xīng shàng yuè	6
 虏庭悲所遣	lǔ tíng bēi suǒ qiǎn	6
 鹿头何亭亭	lù tóu hé tíng tíng	6
 垆头酒正香	lú tóu jiǔ zhèng xiāng	6
@@ -102440,7 +102440,7 @@ sort: by_weight
 路喧歌五袴	lù xuān gē wǔ kù	6
 露泫秋树高	lù xuàn qiū shù gāo	6
 陆逊岂书生	lù xùn qǐ shū shēng	6
-路寻西九曲	lù xún xī jiǔ qǔ	6
+路寻西九曲	lù xún xī jiǔ qū	6
 芦雁触罗惊	lú yàn chù luó jīng	6
 炉烟霏琐闼	lú yān fēi suǒ tà	6
 炉烟满夕风	lú yān mǎn xī fēng	6
@@ -106981,7 +106981,7 @@ sort: by_weight
 眇然四体轻	miǎo rán sì tǐ qīng	6
 渺然忘损益	miǎo rán wàng sǔn yì	6
 眇然夜将半	miǎo rán yè jiāng bàn	6
-渺然一水隔	miǎo rán yī shuǐ gé	6
+渺然一水隔	miǎo rán yì shuǐ gé	6
 邈然在云霄	miǎo rán zài yún xiāo	6
 眇然贞观初	miǎo rán zhēn guàn chū	6
 渺如大河流	miǎo rú dà hé liú	6
@@ -108113,8 +108113,8 @@ sort: by_weight
 名为四海闻	míng wéi sì hǎi wén	6
 名位为君轻	míng wèi wèi jūn qīng	6
 命问长沙鵩	mìng wèn cháng shā fú	6
-明我长相忆	míng wǒ cháng xiàng yì	6
 命我从此归	mìng wǒ cóng cǐ guī	6
+明我长相忆	míng wǒ zhǎng xiàng yì	6
 鸣舞飞帝乡	míng wǔ fēi dì xiāng	6
 名无高与卑	míng wú gāo yǔ bēi	6
 命无奈我何	mìng wú nài wǒ hé	6
@@ -114696,7 +114696,7 @@ sort: by_weight
 披荒为近名	pī huāng wéi jìn míng	6
 披豁惭深眷	pī huō cán shēn juàn	6
 披豁对吾真	pī huō duì wú zhēn	6
-披豁露天悭	pī huō lù tiān qiān	6
+披豁露天悭	pī huō lòu tiān qiān	6
 劈箭入高浪	pī jiàn rù gāo làng	6
 辟疆旧林间	pì jiāng jiù lín jiān	6
 辟疆年正少	pì jiāng nián zhèng shǎo	6
@@ -115856,7 +115856,7 @@ sort: by_weight
 平地专欹倒	píng dì zhuān yī dào	6
 平地走膏乳	píng dì zǒu gāo rǔ	6
 平地作山丘	píng dì zuò shān qiū	6
-平斗量珠玉	píng dòu liàng zhū yù	6
+平斗量珠玉	píng dǒu liáng zhū yù	6
 平度荷花去	píng dù hé huā qù	6
 平反更恤刑	píng fǎn gèng xù xíng	6
 萍泛苦夤缘	píng fàn kǔ yín yuán	6
@@ -126329,7 +126329,7 @@ sort: by_weight
 秋官为主人	qiū guān wéi zhǔ rén	6
 秋馆烟雨合	qiū guǎn yān yǔ hé	6
 秋光澹紫宫	qiū guāng dàn zǐ gōng	6
-秋光风露天	qiū guāng fēng lù tiān	6
+秋光风露天	qiū guāng fēng lòu tiān	6
 秋光更遥衍	qiū guāng gèng yáo yǎn	6
 秋光近青岑	qiū guāng jìn qīng cén	6
 秋光景气殊	qiū guāng jǐng qì shū	6
@@ -133891,7 +133891,7 @@ sort: by_weight
 三边羽檄分	sān biān yǔ xí fēn	6
 三边月作愁	sān biān yuè zuò chóu	6
 三边正艰厄	sān biān zhèng jiān è	6
-三病长相随	sān bìng cháng xiàng suí	6
+三病长相随	sān bìng cháng xiāng suí	6
 散步长廊下	sàn bù cháng láng xià	6
 散步池塘曲	sàn bù chí táng qǔ	6
 三步六号叫	sān bù liù hào jiào	6
@@ -137114,11 +137114,11 @@ sort: by_weight
 上除青青芹	shàng chú qīng qīng qín	6
 上船拜吾兄	shàng chuán bài wú xiōng	6
 上床自永叹	shàng chuáng zì yǒng tàn	6
-尚垂玄露点	shàng chuí xuán lù diǎn	6
+尚垂玄露点	shàng chuí xuán lòu diǎn	6
 伤春南陌头	shāng chūn nán mò tóu	6
 伤春怯杜鹃	shāng chūn qiè dù juān	6
 赏春惟逐胜	shǎng chūn wéi zhú shèng	6
-伤春一水间	shāng chūn yī shuǐ jiān	6
+伤春一水间	shāng chūn yì shuǐ jiān	6
 上次食八人	shàng cì shí bā rén	6
 赏此无瑕璧	shǎng cǐ wú xiá bì	6
 伤此无衣客	shāng cǐ wú yī kè	6
@@ -140387,8 +140387,8 @@ sort: by_weight
 盛幕招贤士	shèng mù zhāo xián shì	6
 生男尽名白	shēng nán jìn míng bái	6
 胜拟赤城标	shèng nǐ chì chéng biāo	6
+盛年不重来	shèng nián bù chóng lái	6
 盛年不再得	shèng nián bú zài dé	6
-盛年不重来	shèng nián bú zhòng lái	6
 圣念长如此	shèng niàn cháng rú cǐ	6
 生年鹖冠子	shēng nián hé guàn zi	6
 盛年振羽仪	shèng nián zhèn yǔ yí	6
@@ -142073,7 +142073,7 @@ sort: by_weight
 事近小臣敝	shì jìn xiǎo chén bì	6
 拭尽英雄泪	shì jìn yīng xióng lèi	6
 食竟饱还游	shí jìng bǎo hái yóu	6
-时景不重来	shí jǐng bú zhòng lái	6
+时景不重来	shí jǐng bù chóng lái	6
 石镜澄湖泻	shí jìng chéng hú xiè	6
 石鲸吹浪隐	shí jīng chuī làng yǐn	6
 始惊道路难	shǐ jīng dào lù nán	6
@@ -143180,7 +143180,7 @@ sort: by_weight
 是日归来暮	shì rì guī lái mù	6
 是日归泉下	shì rì guī quán xià	6
 十日过沙碛	shí rì guò shā qì	6
-十日画一水	shí rì huà yī shuǐ	6
+十日画一水	shí rì huà yì shuǐ	6
 十日或一见	shí rì huò yí jiàn	6
 是日既低迷	shì rì jì dī mí	6
 十日九风雨	shí rì jiǔ fēng yǔ	6
@@ -158667,7 +158667,7 @@ sort: by_weight
 同此释纷拏	tóng cǐ shì fēn ná	6
 同此天地间	tóng cǐ tiān dì jiān	6
 通辞未有因	tōng cí wèi yǒu yīn	6
-同此一水中	tóng cǐ yī shuǐ zhōng	6
+同此一水中	tóng cǐ yì shuǐ zhōng	6
 同此月徘徊	tóng cǐ yuè pái huái	6
 通达楚与秦	tōng dá chǔ yǔ qín	6
 通当为大鹏	tōng dāng wéi dà péng	6
@@ -163139,7 +163139,7 @@ sort: by_weight
 危邦犹劝讲	wēi bāng yóu quàn jiǎng	6
 为报鬓毛霜	wéi bào bìn máo shuāng	6
 为报不须猜	wéi bào bù xū cāi	6
-为报长相忆	wéi bào cháng xiàng yì	6
+为报长相忆	wéi bào cháng xiāng yì	6
 为报大刀头	wéi bào dà dāo tóu	6
 未报雕龙赠	wèi bào diāo lóng zèng	6
 为报杜拾遗	wéi bào dù shí yí	6
@@ -163788,7 +163788,7 @@ sort: by_weight
 微褐还未充	wēi hè hái wèi chōng	6
 渭河秋水流	wèi hé qiū shuǐ liú	6
 惟喝绕床卢	wéi hē rào chuáng lú	6
-微和生血气	wēi hé shēng xiě qì	6
+微和生血气	wēi hé shēng xuè qì	6
 惟恨碧林曛	wéi hèn bì lín xūn	6
 唯恨乖亲燕	wéi hèn guāi qīn yàn	6
 惟恨锦屏孤	wéi hèn jǐn píng gū	6
@@ -165608,7 +165608,7 @@ sort: by_weight
 惟有安期舄	wéi yǒu ān qī xì	6
 唯有暗蛩悲	wéi yǒu àn qióng bēi	6
 唯有安石榴	wéi yǒu ān shí liú	6
-为有暗香来	wéi yǒu àn xiāng lái	6
+为有暗香来	wèi yǒu àn xiāng lái	6
 唯有巴猿啸	wéi yǒu bā yuán xiào	6
 唯忧白发生	wéi yōu bái fà shēng	6
 唯有白鸟飞	wéi yǒu bái niǎo fēi	6
@@ -165632,7 +165632,7 @@ sort: by_weight
 惟有长江水	wéi yǒu cháng jiāng shuǐ	6
 惟有长明灯	wéi yǒu cháng míng dēng	6
 唯有酬恩客	wéi yǒu chóu ēn kè	6
-为有传书意	wéi yǒu chuán shū yì	6
+为有传书意	wèi yǒu chuán shū yì	6
 唯有此花开	wéi yǒu cǐ huā kāi	6
 唯有此江郊	wéi yǒu cǐ jiāng jiāo	6
 未有大挠书	wèi yǒu dà náo shū	6
@@ -165658,7 +165658,7 @@ sort: by_weight
 惟有归来是	wéi yǒu guī lái shì	6
 未有桂阳使	wèi yǒu guì yáng shǐ	6
 唯有寒潭菊	wéi yǒu hán tán jú	6
-为有好文章	wéi yǒu hǎo wén zhāng	6
+为有好文章	wèi yǒu hǎo wén zhāng	6
 未有好文章	wèi yǒu hǎo wén zhāng	6
 唯有河边鴈	wéi yǒu hé biān yàn	6
 唯有红藤杖	wéi yǒu hóng téng zhàng	6
@@ -165705,7 +165705,7 @@ sort: by_weight
 未有剖符人	wèi yǒu pōu fú rén	6
 惟有千步冈	wéi yǒu qiān bù gāng	6
 唯有钱学士	wéi yǒu qián xué shì	6
-为有倾城色	wéi yǒu qīng chéng sè	6
+为有倾城色	wèi yǒu qīng chéng sè	6
 惟有清风闲	wéi yǒu qīng fēng xián	6
 唯有青槐稀	wéi yǒu qīng huái xī	6
 唯有清笳曲	wéi yǒu qīng jiā qǔ	6
@@ -165770,7 +165770,7 @@ sort: by_weight
 唯有阴怨气	wéi yǒu yīn yuàn qì	6
 惟有永安门	wéi yǒu yǒng ān mén	6
 惟有幽人知	wéi yǒu yōu rén zhī	6
-为有渔樵乐	wéi yǒu yú qiáo lè	6
+为有渔樵乐	wèi yǒu yú qiáo lè	6
 唯有元夫子	wéi yǒu yuán fū zǐ	6
 唯有元微之	wéi yǒu yuán wēi zhī	6
 唯有月明同	wéi yǒu yuè míng tóng	6
@@ -169708,7 +169708,7 @@ sort: by_weight
 武林王居士	wǔ lín wáng jū shì	6
 无令白首新	wú lìng bái shǒu xīn	6
 五陵北原上	wǔ líng běi yuán shàng	6
-无令长相忆	wú lìng cháng xiàng yì	6
+无令长相忆	wú lìng cháng xiāng yì	6
 无令斥候骄	wú lìng chì hòu jiāo	6
 武陵川路狭	wǔ líng chuān lù xiá	6
 武陵春色好	wǔ líng chūn sè hǎo	6
@@ -171369,7 +171369,7 @@ sort: by_weight
 巫言小神变	wū yán xiǎo shén biàn	6
 勿言行路远	wù yán xíng lù yuǎn	6
 勿言一茎少	wù yán yí jìng shǎo	6
-勿言一水隔	wù yán yī shuǐ gé	6
+勿言一水隔	wù yán yì shuǐ gé	6
 勿言阴未成	wù yán yīn wèi chéng	6
 吴盐拥荆门	wú yán yōng jīng mén	6
 吾言有师承	wú yán yǒu shī chéng	6
@@ -173233,7 +173233,7 @@ sort: by_weight
 溪上对鸥闲	xī shàng duì ōu xián	6
 西上逢节换	xī shàng féng jié huàn	6
 西上轘辕山	xī shàng huán yuán shān	6
-西上九曲亭	xī shàng jiǔ qǔ tíng	6
+西上九曲亭	xī shàng jiǔ qū tíng	6
 西上君飞盖	xī shàng jūn fēi gài	6
 西上令人老	xī shàng lìng rén lǎo	6
 西上岷江源	xī shàng mín jiāng yuán	6
@@ -174270,7 +174270,7 @@ sort: by_weight
 昔作咸秦客	xī zuò xián qín kè	6
 戏作一篇书	xì zuò yì piān shū	6
 昔作异时人	xī zuò yì shí rén	6
-昔作一水鱼	xī zuò yī shuǐ yú	6
+昔作一水鱼	xī zuò yì shuǐ yú	6
 昔作园中实	xī zuò yuán zhōng shí	6
 昔作芸香侣	xī zuò yún xiāng lǚ	6
 霞鞍金口骝	xiá ān jīn kǒu liú	6
@@ -176569,11 +176569,11 @@ sort: by_weight
 仙舟数刻同	xiān zhōu shù kè tóng	6
 仙舟窅将隔	xiān zhōu yǎo jiāng gé	6
 仙舟鱼鸟情	xiān zhōu yú niǎo qíng	6
+衔珠盛出师	xián zhū chéng chū shī	6
 闲逐钝人来	xián zhú dùn rén lái	6
 先主反刘璋	xiān zhǔ fǎn liú zhāng	6
 鶱翥方兹始	xiān zhù fāng zī shǐ	6
 献珠龙王宫	xiàn zhū lóng wáng gōng	6
-衔珠盛出师	xián zhū shèng chū shī	6
 衔珠遂阙如	xián zhū suì quē rú	6
 献主昔云是	xiàn zhǔ xī yún shì	6
 衔珠俨相向	xián zhū yǎn xiāng xiàng	6
@@ -177858,7 +177858,7 @@ sort: by_weight
 湘水吊王孙	xiāng shuǐ diào wáng sūn	6
 湘水洞庭波	xiāng shuǐ dòng tíng bō	6
 湘水风日满	xiāng shuǐ fēng rì mǎn	6
-湘水回九曲	xiāng shuǐ huí jiǔ qǔ	6
+湘水回九曲	xiāng shuǐ huí jiǔ qū	6
 向水觉芦香	xiàng shuǐ jué lú xiāng	6
 湘水流入海	xiāng shuǐ liú rù hǎi	6
 湘水暮流深	xiāng shuǐ mù liú shēn	6
@@ -177989,7 +177989,7 @@ sort: by_weight
 相思杳如梦	xiāng sī yǎo rú mèng	6
 相思一磬声	xiāng sī yī qìng shēng	6
 相思已十年	xiāng sī yǐ shí nián	6
-相思一水遥	xiāng sī yī shuǐ yáo	6
+相思一水遥	xiāng sī yì shuǐ yáo	6
 相思一相报	xiāng sī yì xiāng bào	6
 相思犹比邻	xiāng sī yóu bǐ lín	6
 相思幽兴长	xiāng sī yōu xīng cháng	6
@@ -178821,7 +178821,7 @@ sort: by_weight
 小妇教鹦鹉	xiǎo fù jiào yīng wǔ	6
 小夫谨利害	xiǎo fū jǐn lì hài	6
 小妇今如此	xiǎo fù jīn rú cǐ	6
-笑拂两只箭	xiào fú liǎng zhǐ jiàn	6
+笑拂两只箭	xiào fú liǎng zhī jiàn	6
 小妇攀车轓	xiǎo fù pān chē fān	6
 小妇秦家女	xiǎo fù qín jiā nǚ	6
 枵腹如瓠壶	xiāo fù rú hù hú	6
@@ -178901,7 +178901,7 @@ sort: by_weight
 萧何律汉刑	xiāo hé lǜ hàn xíng	6
 萧何识故侯	xiāo hé shí gù hóu	6
 萧后去扬州	xiāo hòu qù yáng zhōu	6
-小葫芦行酤	xiǎo hú lú xíng gū	6
+小葫芦行酤	xiǎo hú lu xíng gū	6
 销化成泥尘	xiāo huà chéng ní chén	6
 销化成死灰	xiāo huà chéng sǐ huī	6
 晓花颦不颦	xiǎo huā pín bù pín	6
@@ -189898,7 +189898,7 @@ sort: by_weight
 杳杳涯欲斑	yǎo yǎo yá yù bān	6
 杳杳涯欲辨	yǎo yǎo yá yù biàn	6
 遥遥烟景曛	yáo yáo yān jǐng xūn	6
-遥遥一水间	yáo yáo yī shuǐ jiān	6
+遥遥一水间	yáo yáo yì shuǐ jiān	6
 杳杳一枝琼	yǎo yǎo yì zhī qióng	6
 杳杳映残阳	yǎo yǎo yìng cán yáng	6
 杳杳有遐躅	yǎo yǎo yǒu xiá zhú	6
@@ -193908,7 +193908,7 @@ sort: by_weight
 依山补竹篱	yī shān bǔ zhú lí	6
 忆山愁路荒	yì shān chóu lù huāng	6
 以善服人者	yǐ shàn fú rén zhě	6
-一山还一水	yì shān hái yī shuǐ	6
+一山还一水	yì shān hái yì shuǐ	6
 夷山近海滨	yí shān jìn hǎi bīn	6
 一山尽天苑	yì shān jìn tiān yuàn	6
 疑山空杳蔼	yí shān kōng yǎo ǎi	6
@@ -194284,36 +194284,36 @@ sort: by_weight
 一双俱应节	yì shuāng jù yīng jié	6
 意爽飘欲仙	yì shuǎng piāo yù xiān	6
 一双铁丝箭	yì shuāng tiě sī jiàn	6
-一水不可越	yī shuǐ bù kě yuè	6
-一水不能乱	yī shuǐ bù néng luàn	6
-一水不相见	yī shuǐ bù xiāng jiàn	6
+一水不可越	yì shuǐ bù kě yuè	6
+一水不能乱	yì shuǐ bù néng luàn	6
+一水不相见	yì shuǐ bù xiāng jiàn	6
 伊水才明灭	yī shuǐ cái míng miè	6
 沂水春可涉	yí shuǐ chūn kě shè	6
-一水淡如油	yī shuǐ dàn rú yóu	6
-一水非难越	yī shuǐ fēi nàn yuè	6
+一水淡如油	yì shuǐ dàn rú yóu	6
+一水非难越	yì shuǐ fēi nàn yuè	6
 伊水分一支	yī shuǐ fèn yì zhī	6
-一水何曲折	yī shuǐ hé qū zhé	6
+一水何曲折	yì shuǐ hé qū zhé	6
 伊水净寒流	yī shuǐ jìng hán liú	6
 潩水可抱瓮	yì shuǐ kě bào wèng	6
 伊水来何日	yī shuǐ lái hé rì	6
 伊水连白云	yī shuǐ lián bái yún	6
-一水楼台绕	yī shuǐ lóu tái rào	6
-一水楼台影	yī shuǐ lóu tái yǐng	6
+一水楼台绕	yì shuǐ lóu tái rào	6
+一水楼台影	yì shuǐ lóu tái yǐng	6
 伊水弄参差	yī shuǐ nòng cēn cī	6
 伊水清见石	yī shuǐ qīng jiàn shí	6
-一水秋难渡	yī shuǐ qiū nán dù	6
+一水秋难渡	yì shuǐ qiū nán dù	6
 伊水入门流	yī shuǐ rù mén liú	6
-一水试茗粥	yī shuǐ shì míng zhōu	6
-一水宛秋蛇	yī shuǐ wǎn qiū shé	6
+一水试茗粥	yì shuǐ shì míng zhōu	6
+一水宛秋蛇	yì shuǐ wǎn qiū shé	6
 易水无寒歌	yì shuǐ wú hán gē	6
 易水无良工	yì shuǐ wú liáng gōng	6
-一水限吴州	yī shuǐ xiàn wú zhōu	6
+一水限吴州	yì shuǐ xiàn wú zhōu	6
 伊水向东流	yī shuǐ xiàng dōng liú	6
 易水雄悲笳	yì shuǐ xióng bēi jiā	6
 伊水摇镜光	yī shuǐ yáo jìng guāng	6
-一水云际飞	yī shuǐ yún jì fēi	6
+一水云际飞	yì shuǐ yún jì fēi	6
 伊水正无风	yī shuǐ zhèng wú fēng	6
-一水阻佳期	yī shuǐ zǔ jiā qī	6
+一水阻佳期	yì shuǐ zǔ jiā qī	6
 一瞬见前事	yí shùn jiàn qián shì	6
 以顺为正者	yǐ shùn wéi zhèng zhě	6
 已似爱文章	yǐ sì ài wén zhāng	6
@@ -194551,7 +194551,7 @@ sort: by_weight
 一为沧波客	yī wéi cāng bō kè	6
 以慰常苦饥	yǐ wèi cháng kǔ jī	6
 以为长世谋	yǐ wéi cháng shì móu	6
-以慰长相忆	yǐ wèi cháng xiàng yì	6
+以慰长相忆	yǐ wèi cháng xiāng yì	6
 一为池中物	yī wéi chí zhōng wù	6
 一为到柴扉	yī wéi dào chái fēi	6
 已谓道里远	yǐ wèi dào lǐ yuǎn	6
@@ -196090,7 +196090,7 @@ sort: by_weight
 欹枕看未足	yī zhěn kàn wèi zú	6
 欹枕舻声边	yī zhěn lú shēng biān	6
 欹枕曝灵药	yī zhěn pù líng yào	6
-欹枕悄无言	yī zhěn qiāo wú yán	6
+欹枕悄无言	yī zhěn qiǎo wú yán	6
 欹枕数秋天	yī zhěn shù qiū tiān	6
 一针透顶门	yì zhēn tòu dǐng mén	6
 欹枕闻鸿雁	yī zhěn wén hóng yàn	6
@@ -196659,7 +196659,7 @@ sort: by_weight
 吟哦当此时	yín é dāng cǐ shí	6
 吟哦过一生	yín é guò yì shēng	6
 吟哦口垂涎	yín é kǒu chuí xián	6
-吟哦一水上	yín é yī shuǐ shàng	6
+吟哦一水上	yín é yì shuǐ shàng	6
 因而访幽叟	yīn ér fǎng yōu sǒu	6
 因而尽原隰	yīn ér jìn yuán xí	6
 饮尔一杯酒	yǐn ěr yì bēi jiǔ	6
@@ -199058,8 +199058,8 @@ sort: by_weight
 滢荧心欲无	yíng yíng xīn yù wú	6
 盈盈焉可穷	yíng yíng yān kě qióng	6
 盈盈一尺水	yíng yíng yī chǐ shuǐ	6
-盈盈一水隔	yíng yíng yī shuǐ gé	6
-盈盈一水间	yíng yíng yī shuǐ jiān	6
+盈盈一水隔	yíng yíng yì shuǐ gé	6
+盈盈一水间	yíng yíng yì shuǐ jiān	6
 英英有君子	yīng yīng yǒu jūn zǐ	6
 荧荧玉相似	yíng yíng yù xiāng sì	6
 盈盈在紫微	yíng yíng zài zǐ wēi	6
@@ -202638,7 +202638,7 @@ sort: by_weight
 又作淮南客	yòu zuò huái nán kè	6
 又作江南客	yòu zuò jiāng nán kè	6
 犹作近臣看	yóu zuò jìn chén kàn	6
-又作九曲泉	yòu zuò jiǔ qǔ quán	6
+又作九曲泉	yòu zuò jiǔ qū quán	6
 犹作旧行飞	yóu zuò jiù xíng fēi	6
 犹作苦辛行	yóu zuò kǔ xīn xíng	6
 犹作狂时语	yóu zuò kuáng shí yǔ	6
@@ -205660,7 +205660,7 @@ sort: by_weight
 郁郁杨柳枝	yù yù yáng liǔ zhī	6
 於于以盖众	yú yú yǐ gài zhòng	6
 于予亦何有	yú yǔ yì hé yǒu	6
-纡馀一水合	yū yú yī shuǐ hé	6
+纡馀一水合	yū yú yì shuǐ hé	6
 郁郁荫檐瓦	yù yù yīn yán wǎ	6
 郁郁又纷纷	yù yù yòu fēn fēn	6
 于予与改是	yú yǔ yǔ gǎi shì	6
@@ -206105,7 +206105,7 @@ sort: by_weight
 愿比谢公诗	yuàn bǐ xiè gōng shī	6
 缘边虏欲空	yuán biān lǔ yù kōng	6
 远别不容惜	yuǎn bié bù róng xī	6
-远别长相忆	yuǎn bié cháng xiàng yì	6
+远别长相忆	yuǎn bié cháng xiāng yì	6
 远别初首路	yuǎn bié chū shǒu lù	6
 怨别此何时	yuàn bié cǐ hé shí	6
 远别多苦颜	yuǎn bié duō kǔ yán	6
@@ -206531,7 +206531,7 @@ sort: by_weight
 远涧夜鸣泉	yuǎn jiàn yè míng quán	6
 愿见长相思	yuàn jiàn zhǎng xiāng sī	6
 愿见朱颜酡	yuàn jiàn zhū yán tuó	6
-愿将尘露点	yuàn jiāng chén lù diǎn	6
+愿将尘露点	yuàn jiāng chén lòu diǎn	6
 愿将迟日意	yuàn jiāng chí rì yì	6
 愿将花柳月	yuàn jiāng huā liǔ yuè	6
 愿将今日乐	yuàn jiāng jīn rì lè	6
@@ -207505,7 +207505,7 @@ sort: by_weight
 愿言毕婚嫁	yuàn yán bì hūn jià	6
 怨咽不能寝	yuàn yàn bù néng qǐn	6
 愿言采芳泽	yuàn yán cǎi fāng zé	6
-愿言长相思	yuàn yán cháng xiàng sī	6
+愿言长相思	yuàn yán cháng xiāng sī	6
 愿言乘日旰	yuàn yán chéng rì gàn	6
 愿言成羽翼	yuàn yán chéng yǔ yì	6
 愿言出尘笼	yuàn yán chū chén lóng	6
@@ -209196,7 +209196,7 @@ sort: by_weight
 云泉非所濯	yún quán fēi suǒ zhuó	6
 云泉纷乱瀑	yún quán fēn luàn pù	6
 云泉今已空	yún quán jīn yǐ kōng	6
-云泉九曲深	yún quán jiǔ qǔ shēn	6
+云泉九曲深	yún quán jiǔ qū shēn	6
 云泉堪梦归	yún quán kān mèng guī	6
 云泉透户飞	yún quán tòu hù fēi	6
 云泉隐旧庐	yún quán yǐn jiù lú	6
@@ -215590,7 +215590,7 @@ sort: by_weight
 直以春窘迫	zhí yǐ chūn jiǒng pò	6
 只疑淳朴处	zhǐ yí chún pǔ chù	6
 支颐啜茗花	zhī yí chuò míng huā	6
-雉衣从露体	zhì yī cóng lù tǐ	6
+雉衣从露体	zhì yī cóng lòu tǐ	6
 只益丹心苦	zhǐ yì dān xīn kǔ	6
 祗役匪遑息	zhī yì fěi huáng xī	6
 雉翳分场合	zhì yì fēn chǎng hé	6
@@ -217661,7 +217661,7 @@ sort: by_weight
 中有暗水滴	zhōng yǒu àn shuǐ dī	6
 中有不死者	zhōng yǒu bù sǐ zhě	6
 中有不亡存	zhōng yǒu bù wáng cún	6
-中有长相思	zhōng yǒu cháng xiàng sī	6
+中有长相思	zhōng yǒu cháng xiāng sī	6
 中有酬我诗	zhōng yǒu chóu wǒ shī	6
 中有初夏作	zhōng yǒu chū xià zuò	6
 中有第一流	zhōng yǒu dì yī liú	6
@@ -218732,7 +218732,7 @@ sort: by_weight
 诸胡皆自郐	zhū hú jiē zì kuài	6
 朱户凌晨启	zhū hù líng chén qǐ	6
 朱湖小洞天	zhū hú xiǎo dòng tiān	6
-竹花不结实	zhú huā bù jié shí	6
+竹花不结实	zhú huā bù jiē shi	6
 渚花独开晚	zhǔ huā dú kāi wǎn	6
 诸花覆水源	zhū huā fù shuǐ yuán	6
 渚花兼素锦	zhǔ huā jiān sù jǐn	6
@@ -218986,6 +218986,7 @@ sort: by_weight
 竹笼烟欲暝	zhú lóng yān yù míng	6
 朱楼白水边	zhū lóu bái shuǐ biān	6
 珠楼碧烟里	zhū lóu bì yān lǐ	6
+竹露点衣巾	zhú lòu diǎn yī jīn	6
 朱楼豪士集	zhū lóu háo shì jí	6
 朱楼间碧丛	zhū lóu jiān bì cóng	6
 朱楼接雁池	zhū lóu jiē yàn chí	6
@@ -219000,7 +219001,6 @@ sort: by_weight
 逐虏荡边陲	zhú lǔ dàng biān chuí	6
 竹露滴寒声	zhú lù dī hán shēng	6
 竹露滴清响	zhú lù dī qīng xiǎng	6
-竹露点衣巾	zhú lù diǎn yī jīn	6
 竹路过湘源	zhú lù guò xiāng yuán	6
 逐虏金微山	zhú lǔ jīn wēi shān	6
 竹露冷烦襟	zhú lù lěng fán jīn	6
@@ -221323,7 +221323,7 @@ sort: by_weight
 兹谋待君必	zī móu dài jūn bì	6
 子牟怀魏阙	zǐ móu huái wèi quē	6
 子牟恋魏阙	zǐ móu liàn wèi quē	6
-子母长相随	zǐ mǔ cháng xiàng suí	6
+子母长相随	zǐ mǔ cháng xiāng suí	6
 子母相钩带	zǐ mǔ xiāng gōu dài	6
 自牧豫章郡	zì mù yù zhāng jùn	6
 自难忘两句	zì nán wàng liǎng jù	6
@@ -222636,7 +222636,7 @@ sort: by_weight
 租税从何出	zū shuì cóng hé chū	6
 租税兼舄卤	zū shuì jiān xì lǔ	6
 租税辽东田	zū shuì liáo dōng tián	6
-卒岁长相随	zú suì cháng xiàng suí	6
+卒岁长相随	zú suì cháng xiāng suí	6
 卒岁丰衣服	zú suì fēng yī fu	6
 卒岁好优游	zú suì hǎo yōu yóu	6
 卒岁扃苍苔	zú suì jiōng cāng tái	6
@@ -224539,8 +224539,8 @@ sort: by_weight
 长生久视之道	cháng shēng jiǔ shì zhī dào	6
 长条故惹行客	cháng tiáo gù rě xíng kè	6
 长亭柳色才黄	cháng tíng liǔ sè cái huáng	6
-长相思摧心肝	cháng xiàng sī cuī xīn gān	6
-长相思在长安	cháng xiàng sī zài cháng ān	6
+长相思摧心肝	cháng xiāng sī cuī xīn gān	6
+长相思在长安	cháng xiāng sī zài cháng ān	6
 尝相与无为乎	cháng xiāng yǔ wú wéi hū	6
 长向月圆时候	cháng xiàng yuè yuán shí hou	6
 唱兄诗送一杯	chàng xiōng shī sòng yì bēi	6
@@ -225342,7 +225342,7 @@ sort: by_weight
 而有宋朝之美	ér yǒu sòng cháo zhī měi	6
 而右膝已絷矣	ér yòu xī yǐ zhí yǐ	6
 二曰五声乱耳	èr yuē wǔ shēng luàn ěr	6
-而在己为有悔	ér zài jǐ wéi yǒu huǐ	6
+而在己为有悔	ér zài jǐ wèi yǒu huǐ	6
 而止乎无所化	ér zhǐ hū wú suǒ huà	6
 而知命以傲世	ér zhī mìng yǐ ào shì	6
 耳之于聪也殆	ěr zhī yú cōng yě dài	6
@@ -228766,7 +228766,7 @@ sort: by_weight
 是以亡其大当	shì yǐ wáng qí dà dāng	6
 试一望兮夺魄	shì yí wàng xī duó pò	6
 是以谓之文也	shì yǐ wèi zhī wén yě	6
-是以无有为有	shì yǐ wú yǒu wéi yǒu	6
+是以无有为有	shì yǐ wú yǒu wèi yǒu	6
 是亦羿有罪焉	shì yì yì yǒu zuì yān	6
 是鶃鶃之肉也	shì yì yì zhī ròu yě	6
 是以有衮衣兮	shì yǐ yǒu gǔn yī xī	6
@@ -229642,7 +229642,7 @@ sort: by_weight
 为之犹贤乎已	wéi zhī yóu xián hū yǐ	6
 为之于未有治	wéi zhī yú wèi yǒu zhì	6
 微之宅残牡丹	wēi zhī zhái cán mǔ dān	6
-惟助为有公田	wéi zhù wéi yǒu gōng tián	6
+惟助为有公田	wéi zhù wèi yǒu gōng tián	6
 为子骨肉肌肤	wéi zǐ gǔ ròu jī fū	6
 微子之昌言兮	wēi zǐ zhī chāng yán xī	6
 味作咸而若一	wèi zuò xián ér ruò yī	6
@@ -233725,7 +233725,7 @@ sort: by_weight
 报答春光知有处	bào dá chūn guāng zhī yǒu chù	6
 报答平生未展眉	bào dá píng shēng wèi zhǎn méi	6
 宝刀骏马填山丘	bǎo dāo jùn mǎ tián shān qiū	6
-宝刀留赠长相忆	bǎo dāo liú zèng cháng xiàng yì	6
+宝刀留赠长相忆	bǎo dāo liú zèng cháng xiāng yì	6
 抱得秦筝不忍弹	bào de qín zhēng bù rěn dàn	6
 报德谁能不顾勋	bào dé shuí néng bù gù xūn	6
 宝簟玲珑透象床	bǎo diàn líng lóng tòu xiàng chuáng	6
@@ -235622,6 +235622,7 @@ sort: by_weight
 不出门来又数旬	bù chū mén lái yòu shù xún	6
 不除乡校独何心	bù chú xiāng xiào dú hé xīn	6
 不出嚣尘见远公	bù chū xiāo chén jiàn yuǎn gōng	6
+不出阴阳八卦形	bù chū yīn yáng bā guà xíng	6
 补穿葺漏仅区区	bǔ chuān qì lòu jǐn qū qū	6
 不传消息但传情	bù chuán xiāo xi dàn chuán qíng	6
 不穿杨叶不言归	bù chuān yáng yè bù yán guī	6
@@ -236086,7 +236087,7 @@ sort: by_weight
 不据山河据平地	bù jù shān hé jù píng dì	6
 卜居相近岂辞迁	bǔ jū xiāng jìn qǐ cí qiān	6
 卜居新息临淮水	bǔ jū xīn xī lín huái shuǐ	6
-不拘一格降人才	bù jū yì gé jiàng rén cái	6
+不拘一格降人才	bù jū yì gé jiàng rén cái	7
 不拘一格降人材	bù jū yì gé jiàng rén cái	6
 步倦何妨车马回	bù juàn hé fáng chē mǎ huí	6
 不镌实录镌虚辞	bù juān shí lù juān xū cí	6
@@ -238950,8 +238951,8 @@ sort: by_weight
 长向暗中梳白发	cháng xiàng àn zhōng shū bái fà	6
 长向村家取黄犊	cháng xiàng cūn jiā qǔ huáng dú	6
 长向人间愁老病	cháng xiàng rén jiān chóu lǎo bìng	6
-长相思二首之二	cháng xiàng sī èr shǒu zhī èr	6
-长相思二首之一	cháng xiàng sī èr shǒu zhī yī	6
+长相思二首之二	cháng xiāng sī èr shǒu zhī èr	6
+长相思二首之一	cháng xiāng sī èr shǒu zhī yī	6
 长想吴江与蜀江	cháng xiǎng wú jiāng yǔ shǔ jiāng	6
 长宵嘹唳鸿命侣	cháng xiāo liáo lì hóng mìng lǚ	6
 长笑灵均不知命	cháng xiào líng jūn bù zhī mìng	6
@@ -240969,6 +240970,7 @@ sort: by_weight
 穿花落水益沾巾	chuān huā luò shuǐ yì zhān jīn	6
 穿花踏月饮村酒	chuān huā tà yuè yǐn cūn jiǔ	6
 传家各自闻诗礼	chuán jiā gè zì wén shī lǐ	6
+穿尽红丝几万条	chuān jìn hóng sī jǐ wàn tiáo	6
 传经远自汉扶阳	chuán jīng yuǎn zì hàn fú yáng	6
 传君昨夜怅然悲	chuán jūn zuó yè chàng rán bēi	6
 船开棹进一回顾	chuán kāi zhào jìn yì huí gù	6
@@ -242185,6 +242187,7 @@ sort: by_weight
 此日一家同出游	cǐ rì yì jiā tóng chū yóu	6
 此日佣工记名姓	cǐ rì yōng gōng jì míng xìng	6
 此日与君除万恨	cǐ rì yǔ jūn chú wàn hèn	6
+此日中流自在行	cǐ rì zhōng liú zì zài háng	6
 此三者不可致诘	cǐ sān zhě bù kě zhì jí	6
 此僧本住南天竺	cǐ sēng běn zhù nán tiān zhú	6
 此僧年几那得知	cǐ sēng nián jǐ nà de zhī	6
@@ -243062,7 +243065,7 @@ sort: by_weight
 村巷惊呼聚玃猴	cūn xiàng jīng hū jù jué hóu	6
 寸心还是报恩人	cùn xīn hái shì bào ēn rén	6
 寸心怀思复何如	cùn xīn huái sī fù hé rú	6
-寸心誓与长相守	cùn xīn shì yǔ cháng xiàng shǒu	6
+寸心誓与长相守	cùn xīn shì yǔ cháng xiāng shǒu	6
 寸心十指有长短	cùn xīn shí zhǐ yǒu cháng duǎn	6
 寸心唯是鬓毛知	cùn xīn wéi shì bìn máo zhī	6
 寸心争忍不成灰	cùn xīn zhēng rěn bù chéng huī	6
@@ -244276,7 +244279,7 @@ sort: by_weight
 道大如天不可求	dào dà rú tiān bù kě qiú	6
 到大啁啾解游飏	dào dà zhōu jiū jiě yóu yáng	6
 到得洪都又一年	dào de hóng dū yòu yì nián	6
-道德无多只本心	dào dé wú duō zhǐ běn xīn	6
+道德无多只本心	dào dé wú duō zhī běn xīn	6
 到得月年官又满	dào de yuè nián guān yòu mǎn	6
 到底不能磨灭香	dào dǐ bù néng mó miè xiāng	6
 道恶乎往而不存	dào è hū wǎng ér bù cún	6
@@ -245399,7 +245402,7 @@ sort: by_weight
 动处水纹开滟滟	dòng chù shuǐ wén kāi yàn yàn	6
 东楚吴山驿树微	dōng chǔ wú shān yì shù wēi	6
 洞穿江底出江南	dòng chuān jiāng dǐ chū jiāng nán	6
-东船西舫悄无言	dōng chuán xī fǎng qiāo wú yán	6
+东船西舫悄无言	dōng chuán xī fǎng qiǎo wú yán	6
 东川已过二三春	dōng chuān yǐ guò èr sān chūn	6
 东窗浑为读书忙	dōng chuāng hún wéi dú shū máng	6
 东床空后且娇怜	dōng chuáng kōng hòu qiě jiāo lián	6
@@ -245949,7 +245952,7 @@ sort: by_weight
 冻鸢储肉巧谋身	dòng yuān chǔ ròu qiǎo móu shēn	6
 冬愿纯绵对阴雪	dōng yuàn chún mián duì yīn xuě	6
 东园篮轝醉归时	dōng yuán lán yù zuì guī shí	6
-东园桃李长相忆	dōng yuán táo lǐ cháng xiàng yì	6
+东园桃李长相忆	dōng yuán táo lǐ cháng xiāng yì	6
 东园桃李芳已歇	dōng yuán táo lǐ fāng yǐ xiē	6
 东园桃李片时春	dōng yuán táo lǐ piàn shí chūn	6
 东园添我老生涯	dōng yuán tiān wǒ lǎo shēng yá	6
@@ -245982,7 +245985,7 @@ sort: by_weight
 洞中时见秦人宅	dòng zhōng shí jiàn qín rén zhái	6
 东周清洛羽觞杯	dōng zhōu qīng luò yǔ shāng bēi	6
 东周退傅最伤情	dōng zhōu tuì fù zuì shāng qíng	6
-东舟西舫悄无言	dōng zhōu xī fǎng qiāo wú yán	6
+东舟西舫悄无言	dōng zhōu xī fǎng qiǎo wú yán	6
 东周西雍此分涂	dōng zhōu xī yōng cǐ fēn tú	6
 东州赵叟饮无敌	dōng zhōu zhào sǒu yǐn wú dí	6
 东舟只载旧书诗	dōng zhōu zhǐ zài jiù shū shī	6
@@ -246019,7 +246022,7 @@ sort: by_weight
 斗酒相留醉复醒	dǒu jiǔ xiāng liú zuì fù xǐng	6
 斗酒新诗终日疏	dǒu jiǔ xīn shī zhōng rì shū	6
 豆蔻连梢煎熟水	dòu kòu lián shāo jiān shú shuǐ	6
-斗量明珠鸟传意	dòu liàng míng zhū niǎo chuán yì	6
+斗量明珠鸟传意	dǒu liáng míng zhū niǎo chuán yì	6
 兜率寺高宜望月	dōu lǜ sì gāo yí wàng yuè	6
 都门蔼蔼壶觞举	dōu mén ǎi ǎi hú shāng jǔ	6
 都门不见河阳树	dōu mén bú jiàn hé yáng shù	6
@@ -247332,7 +247335,7 @@ sort: by_weight
 二三道士席其间	èr sān dào shì xí qí jiān	6
 二三豪俊为时出	èr sān háo jùn wéi shí chū	6
 二三君子不相遗	èr sān jūn zǐ bù xiāng yí	6
-二三君子为有功	èr sān jūn zǐ wéi yǒu gōng	6
+二三君子为有功	èr sān jūn zǐ wèi yǒu gōng	6
 二三名士开颜笑	èr sān míng shì kāi yán xiào	6
 二三月里饶春睡	èr sān yuè lǐ ráo chūn shuì	6
 二三月时何草绿	èr sān yuè shí hé cǎo lǜ	6
@@ -252802,7 +252805,7 @@ sort: by_weight
 怪得独饶脂粉态	guài de dú ráo zhī fěn tài	6
 怪得时闻吠夜声	guài de shí wén fèi yè shēng	6
 怪底江山起烟雾	guài dǐ jiāng shān qǐ yān wù	6
-怪底秦淮一水长	guài dǐ qín huái yī shuǐ cháng	6
+怪底秦淮一水长	guài dǐ qín huái yì shuǐ cháng	6
 怪底吾庐有林谷	guài dǐ wú lú yǒu lín gǔ	6
 怪底眼花悬两目	guài dǐ yǎn huā xuán liǎng mù	6
 怪尔常穿虎豹群	guài ěr cháng chuān hǔ bào qún	6
@@ -252965,6 +252968,7 @@ sort: by_weight
 官满更归何处去	guān mǎn gèng guī hé chù qù	6
 官梅诗兴故依然	guān méi shī xìng gù yī rán	6
 关门令尹谁能识	guān mén lìng yǐn shuí néng shí	6
+关门如有八重险	guān mén rú yǒu bā chóng xiǎn	6
 惯眠处士云庵里	guàn mián chǔ shì yún ān lǐ	6
 冠冕凄凉几迁改	guān miǎn qī liáng jǐ qiān gǎi	6
 管妙弦清歌入云	guǎn miào xián qīng gē rù yún	6
@@ -253847,7 +253851,7 @@ sort: by_weight
 还尽平生未足心	hái jìn píng shēng wèi zú xīn	6
 海鲸东蹙百川回	hǎi jīng dōng cù bǎi chuān huí	6
 海镜鑯毫只强颜	hǎi jìng jiān háo zhǐ qiǎng yán	6
-海鲸露背横沧溟	hǎi jīng lù bèi héng cāng míng	6
+海鲸露背横沧溟	hǎi jīng lòu bèi héng cāng míng	6
 还京遂落清明后	hái jīng suì luò qīng míng hòu	6
 还君此画三叹息	hái jūn cǐ huà sān tàn xī	6
 还君复入古锦囊	hái jūn fù rù gǔ jǐn náng	6
@@ -256822,7 +256826,7 @@ sort: by_weight
 忽令独奏凤将雏	hū lìng dú zòu fèng jiāng chú	6
 呼卢百万终不惜	hū lú bǎi wàn zhōng bù xī	6
 胡芦河上泪沾巾	hú lú hé shàng lèi zhān jīn	6
-葫芦河上泪沾巾	hú lú hé shàng lèi zhān jīn	6
+葫芦河上泪沾巾	hú lu hé shàng lèi zhān jīn	6
 胡虏凭陵大道销	hú lǔ píng líng dà dào xiāo	6
 胡虏千秋尚入关	hú lǔ qiān qiū shàng rù guān	6
 虎旅由来肃万方	hǔ lǚ yóu lái sù wàn fāng	6
@@ -257489,7 +257493,7 @@ sort: by_weight
 华山道士卖药还	huà shān dào shì mài yào hái	6
 华山东麓秦遗民	huà shān dōng lù qín yí mín	6
 画山何必山中人	huà shān hé bì shān zhōng rén	6
-华山秦塞长相忆	huà shān qín sāi cháng xiàng yì	6
+华山秦塞长相忆	huà shān qín sāi cháng xiāng yì	6
 花上盈盈人不归	huā shàng yíng yíng rén bù guī	6
 画蛇著足无处用	huà shé zhuó zú wú chǔ yòng	6
 花深近县宿河阳	huā shēn jìn xiàn sù hé yáng	6
@@ -258106,7 +258110,7 @@ sort: by_weight
 黄河复缭天门带	huáng hé fù liáo tiān mén dài	6
 黄鹤高楼已捶碎	huáng hè gāo lóu yǐ chuí suì	6
 黄鹤何事两翼垂	huáng hè hé shì liǎng yì chuí	6
-黄河九曲今归汉	huáng hé jiǔ qǔ jīn guī hàn	6
+黄河九曲今归汉	huáng hé jiǔ qū jīn guī hàn	6
 黄河流出有浮桥	huáng hé liú chū yǒu fú qiáo	6
 黄鹤楼前春水阔	huáng hè lóu qián chūn shuǐ kuò	6
 黄鹤楼前月华白	huáng hè lóu qián yuè huá bái	6
@@ -259695,7 +259699,7 @@ sort: by_weight
 既上征之不可兮	jì shàng zhēng zhī bù kě xī	6
 及少康之未家兮	jí shào kāng zhī wèi jiā xī	6
 记少年一梦扬州	jì shào nián yí mèng yáng zhōu	6
-嵇绍似康为有子	jī shào sì kāng wéi yǒu zǐ	6
+嵇绍似康为有子	jī shào sì kāng wèi yǒu zǐ	6
 鸡舌还应共赐香	jī shé hái yīng gòng cì xiāng	6
 鸡舌含多口厌无	jī shé hán duō kǒu yàn wú	6
 籍甚传夸静照堂	jí shèn chuán kuā jìng zhào táng	6
@@ -260092,6 +260096,7 @@ sort: by_weight
 家家门外长安道	jiā jiā mén wài zhǎng ān dào	6
 家家抛向墙根底	jiā jiā pāo xiàng qiáng gēn dǐ	6
 家家屏障书题遍	jiā jiā píng zhàng shū tí biàn	6
+家家乞巧望秋月	jiā jiā qǐ qiǎo wàng qiū yuè	6
 家家桃杏过墙开	jiā jiā táo xìng guò qiáng kāi	6
 家家畏向田头飞	jiā jiā wèi xiàng tián tóu fēi	6
 家家养男当门户	jiā jiā yǎng nán dāng mén hù	6
@@ -261138,7 +261143,7 @@ sort: by_weight
 江南父老还相念	jiāng nán fù lǎo hái xiāng niàn	6
 江南父老庆丰年	jiāng nán fù lǎo qìng fēng nián	6
 江南故吏别来久	jiāng nán gù lì bié lái jiǔ	6
-江南海北长相忆	jiāng nán hǎi běi cháng xiàng yì	6
+江南海北长相忆	jiāng nán hǎi běi cháng xiāng yì	6
 江南湖水咽山川	jiāng nán hú shuǐ yàn shān chuān	6
 江南花柳从君咏	jiāng nán huā liǔ cóng jūn yǒng	6
 江南花向殿前生	jiāng nán huā xiàng diàn qián shēng	6
@@ -261483,7 +261488,7 @@ sort: by_weight
 将与辽东作丘坂	jiāng yǔ liáo dōng zuò qiū bǎn	6
 江雨蒙蒙作小寒	jiāng yǔ méng méng zuò xiǎo hán	6
 江鱼群从称妻妾	jiāng yú qún cóng chēng qī qiè	6
-江鱼朔雁长相忆	jiāng yú shuò yàn cháng xiàng yì	6
+江鱼朔雁长相忆	jiāng yú shuò yàn cháng xiāng yì	6
 将余一为问生涯	jiāng yú yī wéi wèn shēng yá	6
 江月何年初照人	jiāng yuè hé nián chū zhào rén	6
 江月江月光于水	jiāng yuè jiāng yuè guāng yú shuǐ	6
@@ -263710,7 +263715,7 @@ sort: by_weight
 静看蜘蛛结网丝	jìng kàn zhī zhū jié wǎng sī	6
 荆轲有寒水之悲	jīng kē yǒu hán shuǐ zhī bēi	6
 京口北固亭怀古	jīng kǒu běi gù tíng huái gǔ	6
-京口瓜洲一水间	jīng kǒu guā zhōu yī shuǐ jiān	6
+京口瓜洲一水间	jīng kǒu guā zhōu yì shuǐ jiān	6
 京口年来耆旧衰	jīng kǒu nián lái qí jiù shuāi	6
 京口新传作客经	jīng kǒu xīn chuán zuò kè jīng	6
 京口因家始愿违	jīng kǒu yīn jiā shǐ yuàn wéi	6
@@ -264091,8 +264096,6 @@ sort: by_weight
 旧愁新恨知多少	jiù chóu xīn hèn zhī duō shǎo	6
 九雏鸣凤乱啾啾	jiǔ chú míng fèng luàn jiū jiū	6
 九雏威凤鸣朝阳	jiǔ chú wēi fèng míng zhāo yáng	6
-旧传比翼侯家舞	jiù chuán bǐ yì hòu jiā wǔ	6
-旧传南海出灵禽	jiù chuán nán hǎi chū líng qín	6
 旧穿杨叶真自知	jiù chuān yáng yè zhēn zì zhī	6
 酒船鱼网归来是	jiǔ chuán yú wǎng guī lái shì	6
 九春风景足林泉	jiǔ chūn fēng jǐng zú lín quán	6
@@ -264352,7 +264355,7 @@ sort: by_weight
 救黥医劓世无方	jiù qíng yī yì shì wú fāng	6
 酒倾玉醆垂莲尽	jiǔ qīng yù zhǎn chuí lián jìn	6
 九秋霜月五更风	jiǔ qiū shuāng yuè wǔ gēng fēng	6
-九曲半应非禹迹	jiǔ qǔ bàn yīng fēi yǔ jì	6
+九曲半应非禹迹	jiǔ qū bàn yīng fēi yǔ jì	6
 九衢草草人面青	jiǔ qú cǎo cǎo rén miàn qīng	6
 九衢车马轰如雷	jiǔ qú chē mǎ hōng rú léi	6
 九衢车马浑浑流	jiǔ qú chē mǎ hún hún liú	6
@@ -264361,8 +264364,8 @@ sort: by_weight
 九衢大宅家家入	jiǔ qú dà zhái jiā jiā rù	6
 九衢灯火杂梦寐	jiǔ qú dēng huǒ zá mèng mèi	6
 九衢歌舞颂王明	jiǔ qú gē wǔ sòng wáng míng	6
-九曲寒波不溯流	jiǔ qǔ hán bō bù sù liú	6
-九曲黄河万里沙	jiǔ qǔ huáng hé wàn lǐ shā	6
+九曲寒波不溯流	jiǔ qū hán bō bù sù liú	6
+九曲黄河万里沙	jiǔ qū huáng hé wàn lǐ shā	6
 九衢黄土污儒冠	jiǔ qú huáng tǔ wū rú guān	6
 九衢金吾夜行行	jiǔ qú jīn wú yè xíng xíng	6
 九衢明艳起香尘	jiǔ qú míng yàn qǐ xiāng chén	6
@@ -264683,7 +264686,9 @@ sort: by_weight
 旧主江边侧帽檐	jiù zhǔ jiāng biān cè mào yán	6
 旧竹青青常绕宅	jiù zhú qīng qīng cháng rào zhái	6
 九烛台前十二姝	jiǔ zhú tái qián shí èr shū	6
+旧传比翼侯家舞	jiù zhuàn bǐ yì hòu jiā wǔ	6
 九转但能生羽翼	jiǔ zhuàn dàn néng shēng yǔ yì	6
+旧传南海出灵禽	jiù zhuàn nán hǎi chū líng qín	6
 九转神丹都谩说	jiǔ zhuàn shén dān dōu mán shuō	6
 九子羡君门户壮	jiǔ zǐ xiàn jūn mén hù zhuàng	6
 九奏未终百寮惰	jiǔ zòu wèi zhōng bǎi liáo duò	6
@@ -267719,7 +267724,6 @@ sort: by_weight
 郎署回翔何水部	láng shǔ huí xiáng hé shuǐ bù	6
 浪说闲居爱重九	làng shuō xián jū ài chóng jiǔ	6
 浪说诸公见嗟赏	làng shuō zhū gōng jiàn jiē shǎng	6
-浪陶风簸自天涯	làng táo fēng bǒ zì tiān yá	6
 浪淘风簸自天涯	làng táo fēng bǒ zì tiān yá	6
 浪淘几簸自天涯	làng táo jǐ bǒ zì tiān yá	6
 浪翁醉处今尚在	làng wēng zuì chù jīn shàng zài	6
@@ -269401,7 +269405,7 @@ sort: by_weight
 梁园射尽南飞雁	liáng yuán shè jìn nán fēi yàn	6
 梁苑隋堤事已空	liáng yuàn suí dī shì yǐ kōng	6
 凉原乡井不得见	liáng yuán xiāng jǐng bù dé jiàn	6
-梁园修竹旧传名	liáng yuán xiū zhú jiù chuán míng	6
+梁园修竹旧传名	liáng yuán xiū zhú jiù zhuàn míng	6
 凉苑虚庭空澹白	liáng yuàn xū tíng kōng dàn bái	6
 梁园置酒召何人	liáng yuán zhì jiǔ zhào hé rén	6
 梁园纵玩归应少	liáng yuán zòng wán guī yīng shǎo	6
@@ -269412,7 +269416,7 @@ sort: by_weight
 两卮春酒真堪羡	liǎng zhī chūn jiǔ zhēn kān xiàn	6
 两枝飞去杳无踪	liǎng zhī fēi qù yǎo wú zōng	6
 谅知躬行有君子	liàng zhī gōng xíng yǒu jūn zǐ	6
-两只黄鹂鸣翠柳	liǎng zhǐ huáng lí míng cuì liǔ	6
+两只黄鹂鸣翠柳	liǎng zhī huáng lí míng cuì liǔ	6
 两枝仙桂一时芳	liǎng zhī xiān guì yì shí fāng	6
 两枝杨柳小楼中	liǎng zhī yáng liǔ xiǎo lóu zhōng	6
 凉州不是人间曲	liáng zhōu bú shì rén jiān qǔ	6
@@ -271712,7 +271716,7 @@ sort: by_weight
 落日裴回肠先断	luò rì péi huí cháng xiān duàn	6
 落日扁舟此路寻	luò rì piān zhōu cǐ lù xún	6
 落日凭阑星满池	luò rì píng lán xīng mǎn chí	6
-落日平林一水边	luò rì píng lín yī shuǐ biān	6
+落日平林一水边	luò rì píng lín yì shuǐ biān	6
 落日平原秋草中	luò rì píng yuán qiū cǎo zhōng	6
 落日千山空鸟飞	luò rì qiān shān kōng niǎo fēi	6
 落日青郊半微雨	luò rì qīng jiāo bàn wēi yǔ	6
@@ -272106,7 +272110,7 @@ sort: by_weight
 绿树村边谢豹啼	lǜ shù cūn biān xiè bào tí	6
 屡疏笺天气不磨	lǚ shū jiān tiān qì bù mó	6
 绿树青苔半夕阳	lǜ shù qīng tái bàn xī yáng	6
-绿树青天一水容	lǜ shù qīng tiān yī shuǐ róng	6
+绿树青天一水容	lǜ shù qīng tiān yì shuǐ róng	6
 绿树阴前逐晚凉	lǜ shù yīn qián zhú wǎn liáng	6
 绿树重阴盖四邻	lǜ shù zhòng yīn gài sì lín	6
 绿水残霞催席散	lǜ shuǐ cán xiá cuī xí sàn	6
@@ -273334,7 +273338,7 @@ sort: by_weight
 门外白袍如立鹄	mén wài bái páo rú lì hú	6
 门外碧潭春洗马	mén wài bì tán chūn xiǎn mǎ	6
 门外不须催五马	mén wài bù xū cuī wǔ mǎ	6
-门外苍松一水修	mén wài cāng sōng yī shuǐ xiū	6
+门外苍松一水修	mén wài cāng sōng yì shuǐ xiū	6
 门外潮声朝暮时	mén wài cháo shēng zhāo mù shí	6
 门外车马常如云	mén wài chē mǎ cháng rú yún	6
 门外车马如云屯	mén wài chē mǎ rú yún tún	6
@@ -273378,6 +273382,8 @@ sort: by_weight
 梦肠翻出暂闲行	mèng cháng fān chū zàn xián xíng	6
 梦成风雨浪翻江	mèng chéng fēng yǔ làng fān jiāng	6
 梦成江上打船蓬	mèng chéng jiāng shàng dǎ chuán péng	6
+蒙冲巨舰一毛轻	méng chōng jù jiàn yì máo qīng	7
+艨艟巨舰一毛轻	méng chōng jù jiàn yì máo qīng	6
 蒙冲两岸夹长川	méng chōng liǎng àn jiā cháng chuān	6
 梦到故园多少路	mèng dào gù yuán duō shǎo lù	6
 梦到花桥水阁头	mèng dào huā qiáo shuǐ gé tóu	6
@@ -273944,7 +273950,6 @@ sort: by_weight
 明朝人事随日出	míng cháo rén shì suí rì chū	6
 明朝阮籍过阿戎	míng cháo ruǎn jí guò ā róng	6
 明朝若上君山上	míng cháo ruò shàng jūn shān shàng	6
-明朝散发弄扁舟	míng cháo sàn fà nòng piān zhōu	6
 明朝说与诗人道	míng cháo shuō yǔ shī rén dào	6
 明朝万一西风动	míng cháo wàn yī xī fēng dòng	6
 明朝握手殿门外	míng cháo wò shǒu diàn mén wài	6
@@ -274368,6 +274373,7 @@ sort: by_weight
 名章俊语纷交衡	míng zhāng jùn yǔ fēn jiāo héng	6
 明诏哀痛如父母	míng zhào āi tòng rú fù mǔ	6
 鸣棹孤寻到何处	míng zhào gū xún dào hé chù	6
+明朝散发弄扁舟	míng zhāo sàn fà nòng piān zhōu	6
 鸣碪千杵动秋山	míng zhēn qiān chǔ dòng qiū shān	6
 名振图书剑在泉	míng zhèn tú shū jiàn zài quán	6
 明知来问腆我颜	míng zhī lái wèn tiǎn wǒ yán	6
@@ -274514,7 +274520,7 @@ sort: by_weight
 莫道向来不得意	mò dào xiàng lái bu de yì	6
 莫道谢公方在郡	mò dào xiè gōng fāng zài jùn	6
 莫道新缣长绝比	mò dào xīn jiān cháng jué bǐ	6
-莫道烟波一水隔	mò dào yān bō yī shuǐ gé	6
+莫道烟波一水隔	mò dào yān bō yì shuǐ gé	6
 莫道野人无外事	mò dào yě rén wú wài shì	6
 莫道幽闺书信隔	mò dào yōu guī shū xìn gé	6
 莫道渔人只为鱼	mò dào yú rén zhǐ wèi yú	6
@@ -275285,7 +275291,7 @@ sort: by_weight
 穆王八骏天马驹	mù wáng bā jùn tiān mǎ jū	6
 穆王得之不为戒	mù wáng dé zhī bú wèi jiè	6
 穆王独乘何所之	mù wáng dú chéng hé suǒ zhī	6
-穆王何事不重来	mù wáng hé shì bú zhòng lái	6
+穆王何事不重来	mù wáng hé shì bù chóng lái	6
 母为妾地父妾天	mǔ wéi qiè dì fù qiè tiān	6
 母为逐之乡里丑	mǔ wéi zhú zhī xiāng lǐ chǒu	6
 母问不言何太久	mǔ wèn bù yán hé tài jiǔ	6
@@ -275301,7 +275307,7 @@ sort: by_weight
 幕下诸将思草枯	mù xià zhū jiàng sī cǎo kū	6
 慕贤入室交先定	mù xián rù shì jiāo xiān dìng	6
 暮行逢见一妇人	mù xíng féng jiàn yī fù rén	6
-母兄呱呱泣相守	mǔ xiōng gū gū qì xiāng shǒu	6
+母兄呱呱泣相守	mǔ xiōng guā guā qì xiāng shǒu	6
 母兄怜爱无俦侣	mǔ xiōng lián ài wú chóu lǚ	6
 木修修兮草鲜鲜	mù xiū xiū xī cǎo xiān xiān	6
 苜蓿峰边逢立春	mù xu fēng biān féng lì chūn	6
@@ -275386,7 +275392,7 @@ sort: by_weight
 那解将心怜孔翠	nà jiě jiāng xīn lián kǒng cuì	6
 那禁半霎催归雨	nà jìn bàn shà cuī guī yǔ	6
 那堪把酒对西山	nà kān bǎ jiǔ duì xī shān	6
-那堪别后长相忆	nà kān bié hòu cháng xiàng yì	6
+那堪别后长相忆	nà kān bié hòu cháng xiāng yì	6
 那堪春色更伤心	nà kān chūn sè gèng shāng xīn	6
 那堪夫子九泉归	nà kān fū zǐ jiǔ quán guī	6
 那堪更想千年后	nà kān gèng xiǎng qiān nián hòu	6
@@ -276723,7 +276729,7 @@ sort: by_weight
 宁知晓向云间没	níng zhī xiǎo xiàng yún jiān méi	6
 宁知掩映有人家	níng zhī yǎn yìng yǒu rén jiā	6
 宁知燕赵娉婷子	níng zhī yān zhào pīng tíng zǐ	6
-宁知一水不可渡	níng zhī yī shuǐ bù kě dù	6
+宁知一水不可渡	níng zhī yì shuǐ bù kě dù	6
 宁知远郡雁还来	níng zhī yuǎn jùn yàn hái lái	6
 宁知远使问姓名	níng zhī yuǎn shǐ wèn xìng míng	6
 凝妆艳粉复如神	níng zhuāng yàn fěn fù rú shén	6
@@ -277336,7 +277342,7 @@ sort: by_weight
 蓬莱径是曾到来	péng lái jìng shì céng dào lái	6
 蓬莱可求不可上	péng lái kě qiú bù kě shàng	6
 蓬莱可托无因至	péng lái kě tuō wú yīn zhì	6
-蓬莱阙下长相忆	péng lái què xià cháng xiàng yì	6
+蓬莱阙下长相忆	péng lái què xià cháng xiāng yì	6
 蓬莱阙下是天家	péng lái què xià shì tiān jiā	6
 蓬莱山下足波潮	péng lái shān xià zú bō cháo	6
 蓬莱文章建安骨	péng lái wén zhāng jiàn ān gǔ	6
@@ -278969,6 +278975,7 @@ sort: by_weight
 岂惜黄金将买赋	qǐ xī huáng jīn jiāng mǎi fù	6
 岂惜黄金买词赋	qǐ xī huáng jīn mǎi cí fù	6
 岂惜解鞍留夜饮	qǐ xī jiě ān liú yè yǐn	6
+七夕今宵看碧霄	qī xī jīn xiāo kàn bì xiāo	6
 七夕来时先有期	qī xī lái shí xiān yǒu qī	6
 气息榻然双翅垂	qì xī tà rán shuāng chì chuí	6
 绮席象床琱玉枕	qǐ xí xiàng chuáng diāo yù zhěn	6
@@ -279698,6 +279705,7 @@ sort: by_weight
 牵牛南渡象昭回	qiān niú nán dù xiàng zhāo huí	6
 牵牛引竹上寒花	qiān niú yǐn zhú shàng hán huā	6
 千牛仗下放朝初	qiān niú zhàng xià fàng cháo chū	6
+牵牛织女渡河桥	qiān niú zhī nǚ dù hé qiáo	6
 遣奴送箑非为好	qiǎn nú sòng shà fēi wéi hǎo	6
 千奴一掬奈吾贫	qiān nú yī jū nài wú pín	6
 千片赤英霞烂烂	qiān piàn chì yīng xiá làn làn	6
@@ -280206,7 +280214,7 @@ sort: by_weight
 巧伪乱真君试思	qiǎo wěi luàn zhēn jūn shì sī	6
 巧为柔媚学优孟	qiǎo wéi róu mèi xué yōu mèng	6
 诮我垂鞭弄鸣镝	qiào wǒ chuí biān nòng míng dī	6
-悄无人舟横野渡	qiāo wú rén zhōu héng yě dù	6
+悄无人舟横野渡	qiǎo wú rén zhōu héng yě dù	6
 桥下龟鱼晚无数	qiáo xià guī yú wǎn wú shù	6
 桥下凉来足好风	qiáo xià liáng lái zú hǎo fēng	6
 巧笑艳歌皆我意	qiǎo xiào yàn gē jiē wǒ yì	6
@@ -281847,7 +281855,7 @@ sort: by_weight
 琼台瑶室至今疑	qióng tái yáo shì zhì jīn yí	6
 穷通等是思家意	qióng tōng děng shì sī jiā yì	6
 穷通生死不惊忙	qióng tōng shēng sǐ bù jīng máng	6
-穷通行止长相伴	qióng tōng xíng zhǐ cháng xiàng bàn	6
+穷通行止长相伴	qióng tōng xíng zhǐ cháng xiāng bàn	6
 穷通余事不关身	qióng tōng yú shì bù guān shēn	6
 穷途此别不堪悲	qióng tú cǐ bié bù kān bēi	6
 穷途阮籍几时醒	qióng tú ruǎn jí jǐ shí xǐng	6
@@ -283129,7 +283137,7 @@ sort: by_weight
 却走南州食转贫	què zǒu nán zhōu shí zhuǎn pín	6
 却奏仙歌响绿云	què zòu xiān gē xiǎng lǜ yún	6
 却坐促弦弦转急	què zuò cù xián xián zhuǎn jí	6
-却作泠泠一水看	què zuò líng líng yī shuǐ kàn	6
+却作泠泠一水看	què zuò líng líng yì shuǐ kàn	6
 却作漫天柳絮飞	què zuò màn tiān liǔ xù fēi	6
 却坐云边看帝京	què zuò yún biān kàn dì jīng	6
 群捕鱼儿溪影中	qún bǔ yú ér xī yǐng zhōng	6
@@ -288765,7 +288773,7 @@ sort: by_weight
 诗句对君难出手	shī jù duì jūn nán chū shǒu	6
 诗句多传知有暇	shī jù duō chuán zhī yǒu xiá	6
 诗句乱随青草落	shī jù luàn suí qīng cǎo luò	6
-诗句明朝万口传	shī jù míng cháo wàn kǒu chuán	6
+诗句明朝万口传	shī jù míng zhāo wàn kǒu chuán	6
 诗句往往妙阴何	shī jù wǎng wǎng miào yīn hé	6
 诗句纵横付酒杯	shī jù zòng héng fù jiǔ bēi	6
 诗句纵横剪宫锦	shī jù zòng héng jiǎn gōng jǐn	6
@@ -289351,7 +289359,7 @@ sort: by_weight
 十日狂风桃柳休	shí rì kuáng fēng táo liǔ xiū	6
 是日牵来赤墀下	shì rì qiān lái chì chí xià	6
 是日霜风冻七泽	shì rì shuāng fēng dòng qī zé	6
-十日五日一水石	shí rì wǔ rì yī shuǐ shí	6
+十日五日一水石	shí rì wǔ rì yì shuǐ shí	6
 视日相看能几时	shì rì xiāng kàn néng jǐ shí	6
 十日一遇黄鸡粥	shí rì yí yù huáng jī zhōu	6
 事如春梦了无痕	shì rú chūn mèng liǎo wú hén	6
@@ -290027,7 +290035,7 @@ sort: by_weight
 事之毫髪无谓轻	shì zhī háo fà wú wèi qīng	6
 食之豪健西域无	shí zhī háo jiàn xī yù wú	6
 始知和气待迎新	shǐ zhī hé qì dài yíng xīn	6
-十只画船何处宿	shí zhǐ huà chuán hé chù sù	6
+十只画船何处宿	shí zhī huà chuán hé chù sù	6
 始知驾鹤乘云外	shǐ zhī jià hè chéng yún wài	6
 始知江左未风流	shǐ zhī jiāng zuǒ wèi fēng liú	6
 始知解爱山中宿	shǐ zhī jiě ài shān zhōng sù	6
@@ -290652,7 +290660,7 @@ sort: by_weight
 蜀人矜夸一千载	shǔ rén jīn kuā yì qiān zài	6
 数仞丘墙不见山	shù rèn qiū qiáng bú jiàn shān	6
 蜀人生疏不下箸	shǔ rén shēng shū bú xià zhù	6
-蜀人十日画一水	shǔ rén shí rì huà yī shuǐ	6
+蜀人十日画一水	shǔ rén shí rì huà yì shuǐ	6
 数人同傍曲江头	shù rén tóng bàng qǔ jiāng tóu	6
 蜀人文赋楚人辞	shǔ rén wén fù chǔ rén cí	6
 蜀人闻之皆起立	shǔ rén wén zhī jiē qǐ lì	6
@@ -291720,7 +291728,7 @@ sort: by_weight
 睡听晚衙无一事	shuì tīng wǎn yá wú yī shì	6
 水通山寺笙歌去	shuǐ tōng shān sì shēng gē qù	6
 水头宿兮草头坐	shuǐ tóu sù xī cǎo tóu zuò	6
-谁谓波澜才一水	shuí wèi bō lán cái yī shuǐ	6
+谁谓波澜才一水	shuí wèi bō lán cái yì shuǐ	6
 谁谓此中难可到	shuí wèi cǐ zhōng nán kě dào	6
 谁谓俄顷胶在漆	shuí wèi é qǐng jiāo zài qī	6
 谁谓风流贵公子	shuí wèi fēng liú guì gōng zǐ	6
@@ -292242,7 +292250,7 @@ sort: by_weight
 死囚四百来归狱	sǐ qiú sì bǎi lái guī yù	6
 死去死去今如此	sǐ qù sǐ qù jīn rú cǐ	6
 四衢五衢合一轨	sì qú wǔ qú hé yī guǐ	6
-死去元知万事空	sǐ qù yuán zhī wàn shì kōng	6
+死去元知万事空	sǐ qù yuán zhī wàn shì kōng	7
 死去原知万事空	sǐ qù yuán zhī wàn shì kōng	6
 死去只因菩萨心	sǐ qù zhǐ yīn pú sà xīn	6
 死却题诗几许人	sǐ què tí shī jǐ xǔ rén	6
@@ -292681,7 +292689,7 @@ sort: by_weight
 嵩山老僧披破衲	sōng shān lǎo sēng pī pò nà	6
 嵩山石壁挂飞流	sōng shān shí bì guà fēi liú	6
 松上挂瓢枝几变	sōng shàng guà piáo zhī jǐ biàn	6
-松梢露点沾鹰绁	sōng shāo lù diǎn zhān yīng xiè	6
+松梢露点沾鹰绁	sōng shāo lòu diǎn zhān yīng xiè	6
 松梢飕飕晓声起	sōng shāo sōu sōu xiǎo shēng qǐ	6
 松梢月转琴栖影	sōng shāo yuè zhuǎn qín qī yǐng	6
 竦身别我期丹宫	sǒng shēn bié wǒ qī dān gōng	6
@@ -295552,7 +295560,7 @@ sort: by_weight
 同殷仲文之古树	tóng yīn zhòng wén zhī gǔ shù	6
 通印子鱼犹带骨	tōng yìn zi yú yóu dài gǔ	6
 同游尽返决独往	tóng yóu jìn fǎn jué dú wǎng	6
-同游困卧九曲岭	tóng yóu kùn wò jiǔ qǔ lǐng	6
+同游困卧九曲岭	tóng yóu kùn wò jiǔ qū lǐng	6
 仝有邻僧来乞米	tóng yǒu lín sēng lái qǐ mǐ	6
 铜鱼今乃泽国节	tóng yú jīn nǎi zé guó jié	6
 同遇明时余最幸	tóng yù míng shí yú zuì xìng	6
@@ -297603,7 +297611,7 @@ sort: by_weight
 为君留下相思枕	wèi jūn liú xià xiāng sī zhěn	6
 为君满意说江湖	wèi jūn mǎn yì shuō jiāng hú	6
 为君起唱白纻歌	wèi jūn qǐ chàng bái zhù gē	6
-为君起唱长相思	wèi jūn qǐ chàng cháng xiàng sī	6
+为君起唱长相思	wèi jūn qǐ chàng cháng xiāng sī	6
 为君秋夜捣衣裳	wèi jūn qiū yè dǎo yī shang	6
 为君取醉酒剩沽	wèi jūn qǔ zuì jiǔ shèng gū	6
 为君手把珊瑚鞭	wèi jūn shǒu bǎ shān hú biān	6
@@ -297692,7 +297700,7 @@ sort: by_weight
 危楼点的拂孤云	wēi lóu diǎn de fú gū yún	6
 危楼独立面晴空	wēi lóu dú lì miàn qíng kōng	6
 危楼曲阁半天开	wēi lóu qǔ gé bàn tiān kāi	6
-为论别后长相忆	wéi lùn bié hòu cháng xiàng yì	6
+为论别后长相忆	wéi lùn bié hòu cháng xiāng yì	6
 未论刍粟捐金费	wèi lùn chú sù juān jīn fèi	6
 唯论华发愧头巾	wéi lùn huá fà kuì tóu jīn	6
 未论万户无炊烟	wèi lùn wàn hù wú chuī yān	6
@@ -298261,7 +298269,7 @@ sort: by_weight
 唯有黄昏鸟雀飞	wéi yǒu huáng hūn niǎo què fēi	6
 惟有黄楼临泗水	wéi yǒu huáng lóu lín sì shuǐ	6
 未有黄莺学人语	wèi yǒu huáng yīng xué rén yǔ	6
-为有机心须强聒	wéi yǒu jī xīn xū qiáng guā	6
+为有机心须强聒	wèi yǒu jī xīn xū qiáng guā	6
 畏有家人来洒扫	wèi yǒu jiā rén lái sǎ sǎo	6
 唯有江陵元士曹	wéi yǒu jiāng líng yuán shì cáo	6
 唯有教坊南草绿	wéi yǒu jiào fāng nán cǎo lǜ	6
@@ -298316,7 +298324,7 @@ sort: by_weight
 惟有潜离与暗别	wéi yǒu qián lí yǔ àn bié	6
 唯有千山画不如	wéi yǒu qiān shān huà bù rú	6
 惟有墙花满树红	wéi yǒu qiáng huā mǎn shù hóng	6
-为有桥边拂面香	wéi yǒu qiáo biān fú miàn xiāng	6
+为有桥边拂面香	wèi yǒu qiáo biān fú miàn xiāng	6
 惟有乔木搀天长	wéi yǒu qiáo mù chān tiān cháng	6
 唯有清风入吾室	wéi yǒu qīng fēng rù wú shì	6
 惟有青青松树枝	wéi yǒu qīng qīng sōng shù zhī	6
@@ -298325,7 +298333,7 @@ sort: by_weight
 唯有蜻蜓蛱蝶飞	wéi yǒu qīng tíng jiá dié fēi	6
 唯有秋风愁杀人	wéi yǒu qiū fēng chóu shā rén	6
 唯有秋来两行泪	wéi yǒu qiū lái liǎng háng lèi	6
-为有秋期眠不足	wéi yǒu qiū qī mián bù zú	6
+为有秋期眠不足	wèi yǒu qiū qī mián bù zú	6
 惟有人生飘若浮	wéi yǒu rén shēng piāo ruò fú	6
 唯有人心不可防	wéi yǒu rén xīn bù kě fáng	6
 唯有人心相对时	wéi yǒu rén xīn xiāng duì shí	6
@@ -298347,7 +298355,7 @@ sort: by_weight
 惟有松杉空弄月	wéi yǒu sōng shān kōng nòng yuè	6
 惟有松枝好寄君	wéi yǒu sōng zhī hǎo jì jūn	6
 唯有蓑翁坐钓鱼	wéi yǒu suō wēng zuò diào yú	6
-为有檀栾占雒阳	wéi yǒu tán luán zhàn luò yáng	6
+为有檀栾占雒阳	wèi yǒu tán luán zhàn luò yáng	6
 唯有啼鹃似留客	wéi yǒu tí juān sì liú kè	6
 未有天地可知邪	wèi yǒu tiān dì kě zhī xié	6
 唯有汀洲春草生	wéi yǒu tīng zhōu chūn cǎo shēng	6
@@ -298360,7 +298368,7 @@ sort: by_weight
 惟有武城宅前树	wéi yǒu wǔ chéng zhái qián shù	6
 唯有五陵松柏声	wéi yǒu wǔ líng sōng bǎi shēng	6
 唯有无生三昧观	wéi yǒu wú shēng sān mèi guān	6
-为有牺牲多壮志	wéi yǒu xī shēng duō zhuàng zhì	6
+为有牺牲多壮志	wèi yǒu xī shēng duō zhuàng zhì	6
 唯有闲行犹得在	wéi yǒu xián xíng yóu dé zài	6
 惟有相逢即相别	wéi yǒu xiāng féng jí xiāng bié	6
 唯有香名万岁春	wéi yǒu xiāng míng wàn suì chūn	6
@@ -298384,10 +298392,10 @@ sort: by_weight
 惟有幽人夜来去	wéi yǒu yōu rén yè lái qù	6
 惟有幽人自来去	wéi yǒu yōu rén zì lái qù	6
 唯有猿声满水云	wéi yǒu yuán shēng mǎn shuǐ yún	6
-为有源头活水来	wéi yǒu yuán tóu huó shuǐ lái	6
+为有源头活水来	wèi yǒu yuán tóu huó shuǐ lái	6
 唯有沅犀屈未伸	wéi yǒu yuán xī qū wèi shēn	6
 惟忧月落酒杯空	wéi yōu yuè luò jiǔ bēi kōng	6
-为有云屏无限娇	wéi yǒu yún píng wú xiàn jiāo	6
+为有云屏无限娇	wèi yǒu yún píng wú xiàn jiāo	6
 唯有早朝趋凤阁	wéi yǒu zǎo cháo qū fèng gé	6
 唯忧赵璧白发生	wéi yōu zhào bì bái fà shēng	6
 唯有朝云梦想期	wéi yǒu zhāo yún mèng xiǎng qī	6
@@ -298404,7 +298412,7 @@ sort: by_weight
 惟馀帝子千行泪	wéi yú dì zǐ qiān háng lèi	6
 为余更作三五势	wéi yú gèng zuò sān wǔ shì	6
 惟余旧书一百车	wéi yú jiù shū yì bǎi chē	6
-惟余眷眷长相忆	wéi yú juàn juàn cháng xiàng yì	6
+惟余眷眷长相忆	wéi yú juàn juàn cháng xiāng yì	6
 未欲连车收薏苡	wèi yù lián chē shōu yì yǐ	6
 煨芋炉头看下棋	wēi yù lú tóu kàn xià qí	6
 唯予貌丑骇公等	wéi yǔ mào chǒu hài gōng děng	6
@@ -303120,7 +303128,7 @@ sort: by_weight
 闲著五门遥北望	xián zhù wǔ mén yáo běi wàng	6
 衔珠浴铁向桑干	xián zhū yù tiě xiàng sāng gān	6
 仙幢宝盖拂天来	xiān zhuàng bǎo gài fú tiān lái	6
-闲濯眉须一水滨	xián zhuó méi xū yī shuǐ bīn	6
+闲濯眉须一水滨	xián zhuó méi xū yì shuǐ bīn	6
 衔子飞来定鸿鹄	xián zǐ fēi lái dìng hóng hú	6
 仙子楼台修竹外	xiān zǐ lóu tái xiū zhú wài	6
 先子泯没予谁依	xiān zǐ mǐn mò yǔ shuí yī	6
@@ -303490,6 +303498,7 @@ sort: by_weight
 向来事业竟徒劳	xiàng lái shì yè jìng tú láo	6
 向来四海习凿齿	xiàng lái sì hǎi xí záo chǐ	6
 向来所见今难追	xiàng lái suǒ jiàn jīn nán zhuī	6
+向来枉费推移力	xiàng lái wǎng fèi tuī yí lì	6
 向来无事日犹长	xiàng lái wú shì rì yóu cháng	6
 向来携酒共追攀	xiàng lái xié jiǔ gòng zhuī pān	6
 向来鞅掌真堪笑	xiàng lái yāng zhǎng zhēn kān xiào	6
@@ -303746,7 +303755,7 @@ sort: by_weight
 相望无复马牛风	xiāng wàng wú fù mǎ niú fēng	6
 相望相思不相见	xiāng wàng xiāng sī bù xiāng jiàn	6
 相望相思明月天	xiāng wàng xiāng sī míng yuè tiān	6
-相望依然一水间	xiāng wàng yī rán yī shuǐ jiān	6
+相望依然一水间	xiāng wàng yī rán yì shuǐ jiān	6
 襄王云雨今安在	xiāng wáng yún yǔ jīn ān zài	6
 相望重河隔浅流	xiāng wàng zhòng hé gé qiǎn liú	6
 香帏风动花入楼	xiāng wéi fēng dòng huā rù lóu	6
@@ -306821,6 +306830,7 @@ sort: by_weight
 荀令香炉可待熏	xún lìng xiāng lú kě dài xūn	6
 荀令香销潘簟空	xún lìng xiāng xiāo pān diàn kōng	6
 荀令熏炉更换香	xún lìng xūn lú gēng huàn xiāng	6
+寻龙分金看缠山	xún lóng fēn jīn kàn chán shān	6
 熏笼乱搭绣衣裳	xūn lóng luàn dā xiù yī shang	6
 熏笼玉枕无颜色	xūn lóng yù zhěn wú yán sè	6
 薰炉茶鼎偶然同	xūn lú chá dǐng ǒu rán tóng	6
@@ -307076,7 +307086,7 @@ sort: by_weight
 偃盖反走虬龙形	yǎn gài fǎn zǒu qiú lóng xíng	6
 沿冈度堑复登台	yán gāng dù qiàn fù dēng tái	6
 眼高四海空无人	yǎn gāo sì hǎi kōng wú rén	6
-燕歌楚舞长相随	yàn gē chǔ wǔ cháng xiàng suí	6
+燕歌楚舞长相随	yàn gē chǔ wǔ cháng xiāng suí	6
 艳歌聒醉烛生光	yàn gē guā zuì zhú shēng guāng	6
 艳歌惊落梁上尘	yàn gē jīng luò liáng shàng chén	6
 艳歌能起关山恨	yàn gē néng qǐ guān shān hèn	6
@@ -308342,7 +308352,7 @@ sort: by_weight
 遥知二月王城外	yáo zhī èr yuè wáng chéng wài	6
 遥知风雨不同川	yáo zhī fēng yǔ bù tóng chuān	6
 遥知更解青牛句	yáo zhī gèng jiě qīng niú jù	6
-遥知故人一水隔	yáo zhī gù rén yī shuǐ gé	6
+遥知故人一水隔	yáo zhī gù rén yì shuǐ gé	6
 遥知寒食催归骑	yáo zhī hán shí cuī guī jì	6
 遥知汉使萧关外	yáo zhī hàn shǐ xiāo guān wài	6
 要知何处是无还	yào zhī hé chù shì wú hái	6
@@ -308684,7 +308694,7 @@ sort: by_weight
 野老不知尧舜力	yě lǎo bù zhī yáo shùn lì	6
 野老苍颜一笑温	yě lǎo cāng yán yí xiào wēn	6
 野老何知强讨论	yě lǎo hé zhī qiáng tǎo lùn	6
-野老欢娱为有年	yě lǎo huān yú wéi yǒu nián	6
+野老欢娱为有年	yě lǎo huān yú wèi yǒu nián	6
 野老竞遮官道拜	yě lǎo jìng zhē guān dào bài	6
 野老篱前江岸回	yě lǎo lí qián jiāng àn huí	6
 野老墙低还似家	yě lǎo qiáng dī huán sì jiā	6
@@ -309290,6 +309300,7 @@ sort: by_weight
 一尺寒光堪决云	yì chǐ hán guāng kān jué yún	6
 一持楞伽入中峰	yī chí léng jiā rù zhōng fēng	6
 一尺中庭白玉尘	yì chǐ zhōng tíng bái yù chén	6
+一重缠是一重关	yì chóng chán shì yì chóng guān	6
 一重浪灭一重生	yì chóng làng miè yì chóng shēng	6
 一虫虽死百虫来	yī chóng suī sǐ bǎi chóng lái	6
 一重岩壑一重云	yì chóng yán hè yì chóng yún	6
@@ -310614,7 +310625,7 @@ sort: by_weight
 一声一声鸣锡锡	yì shēng yì shēng míng xī xī	6
 一盛一衰如逝川	yī shèng yī shuāi rú shì chuān	6
 一生一死交情处	yī shēng yì sǐ jiāo qíng chù	6
-一生依样画葫芦	yì shēng yī yàng huà hú lú	6
+一生依样画葫芦	yì shēng yī yàng huà hú lu	6
 一生饮酒花前老	yì shēng yǐn jiǔ huā qián lǎo	6
 一声雍门泪承睫	yì shēng yōng mén lèi chéng jié	6
 一生幽暗又如何	yì shēng yōu àn yòu rú hé	6
@@ -310792,23 +310803,23 @@ sort: by_weight
 一双铜剑秋水光	yì shuāng tóng jiàn qiū shuǐ guāng	6
 一双鸂鶒对沉浮	yì shuāng xī chì duì chén fú	6
 一双先入凤凰池	yì shuāng xiān rù fèng huáng chí	6
-一水碧罗裁缭绕	yī shuǐ bì luó cái liáo rào	6
+一水碧罗裁缭绕	yì shuǐ bì luó cái liáo rào	6
 伊水分来不自由	yī shuǐ fèn lái bú zì yóu	6
-一水护田将绿绕	yī shuǐ hù tián jiāng lǜ rào	6
+一水护田将绿绕	yì shuǐ hù tián jiāng lǜ rào	6
 伊水黄金线一条	yī shuǐ huáng jīn xiàn yì tiáo	6
 伊水溅溅相背流	yī shuǐ jiàn jiàn xiāng bèi liú	6
-一水楼台开晓镜	yī shuǐ lóu tái kāi xiǎo jìng	6
+一水楼台开晓镜	yì shuǐ lóu tái kāi xiǎo jìng	6
 沂水年年有暮春	yí shuǐ nián nián yǒu mù chūn	6
-一水牵愁万里长	yī shuǐ qiān chóu wàn lǐ cháng	6
+一水牵愁万里长	yì shuǐ qiān chóu wàn lǐ cháng	6
 伊水晴光碧玉秋	yī shuǐ qíng guāng bì yù qiū	6
 伊水细浪鳞甲生	yī shuǐ xì làng lín jiá shēng	6
 易水萧萧西风冷	yì shuǐ xiāo xiāo xī fēng lěng	6
-一水萦带昭灵宫	yī shuǐ yíng dài zhāo líng gōng	6
-一水盈盈路不通	yī shuǐ yíng yíng lù bù tōng	6
-一水悠悠百粤通	yī shuǐ yōu yōu bǎi yuè tōng	6
-一水欲阻为可咍	yī shuǐ yù zǔ wéi kě hāi	6
-一水中分白鹭洲	yī shuǐ zhōng fēn bái lù zhōu	6
-一水中间胜武陵	yī shuǐ zhōng jiān shèng wǔ líng	6
+一水萦带昭灵宫	yì shuǐ yíng dài zhāo líng gōng	6
+一水盈盈路不通	yì shuǐ yíng yíng lù bù tōng	6
+一水悠悠百粤通	yì shuǐ yōu yōu bǎi yuè tōng	6
+一水欲阻为可咍	yì shuǐ yù zǔ wéi kě hāi	6
+一水中分白鹭洲	yì shuǐ zhōng fēn bái lù zhōu	6
+一水中间胜武陵	yì shuǐ zhōng jiān shèng wǔ líng	6
 意说被他边将雠	yì shuō bèi tā biān jiāng chóu	6
 已说水乡人饿死	yǐ shuō shuǐ xiāng rén è sǐ	6
 一丝不挂且逢场	yì sī bú guà qiě féng chǎng	6
@@ -313030,7 +313041,7 @@ sort: by_weight
 又怀林十二云云	yòu huái lín shí èr yún yún	6
 忧患半生联出处	yōu huàn bàn shēng lián chū chù	6
 忧患不入乎杯中	yōu huàn bú rù hū bēi zhōng	6
-忧患从来为有身	yōu huàn cóng lái wéi yǒu shēn	6
+忧患从来为有身	yōu huàn cóng lái wèi yǒu shēn	6
 游宦京都二十春	yóu huàn jīng dū èr shí chūn	6
 忧患已空犹梦怕	yōu huàn yǐ kōng yóu mèng pà	6
 幽篁引沼新抽翠	yōu huáng yǐn zhǎo xīn chōu cuì	6
@@ -315412,7 +315423,6 @@ sort: by_weight
 玉颜艳艳空相向	yù yán yàn yàn kōng xiāng xiàng	6
 揄扬九重万乘主	yú yáng jiǔ chóng wàn shèng zhǔ	6
 渔阳老将多回席	yú yáng lǎo jiàng duō huí xí	6
-渔阳鞞鼓动地来	yú yáng pí gǔ dòng dì lái	6
 渔阳鼙鼓动地来	yú yáng pí gǔ dòng dì lái	6
 渔阳戍里烽烟起	yú yáng shù lǐ fēng yān qǐ	6
 揄扬陶令缘求酒	yú yáng táo lìng yuán qiú jiǔ	6
@@ -318073,7 +318083,7 @@ sort: by_weight
 章台柳色未知秋	zhāng tái liǔ sè wèi zhī qiū	6
 章台走马著金鞭	zhāng tái zǒu mǎ zhù jīn biān	6
 樟亭八月又观涛	zhāng tíng bā yuè yòu guān tāo	6
-杖头惟挂一葫芦	zhàng tóu wéi guà yī hú lú	6
+杖头惟挂一葫芦	zhàng tóu wéi guà yī hú lu	6
 帐外鹤鸣奁有镜	zhàng wài hè míng lián yǒu jìng	6
 瘴雾三年恬不怪	zhàng wù sān nián tián bú guài	6
 仗下方从碧殿回	zhàng xià fāng cóng bì diàn huí	6
@@ -320964,7 +320974,7 @@ sort: by_weight
 竹床欹卧数窗棂	zhú chuáng yī wò shù chuāng líng	6
 朱唇翠眉映明矑	zhū chún cuì méi yìng míng lú	6
 朱唇得酒晕生脸	zhū chún dé jiǔ yùn shēng liǎn	6
-朱唇掩抑悄无声	zhū chún yǎn yì qiāo wú shēng	6
+朱唇掩抑悄无声	zhū chún yǎn yì qiǎo wú shēng	6
 朱唇一点桃花殷	zhū chún yì diǎn táo huā yīn	6
 竹刺藤梢步步迷	zhú cì téng shāo bù bù mí	6
 朱泚围兵抽未尽	zhū cǐ wéi bīng chōu wèi jìn	6
@@ -323150,7 +323160,7 @@ sort: by_weight
 最好当年二三月	zuì hǎo dāng nián èr sān yuè	6
 最好凌晨和露看	zuì hǎo líng chén hé lù kàn	6
 醉和春睡倚香怀	zuì hé chūn shuì yǐ xiāng huái	6
-最恨明朝洗车雨	zuì hèn míng cháo xǐ chē yǔ	6
+最恨明朝洗车雨	zuì hèn míng zhāo xǐ chē yǔ	6
 最恨泼醅新熟酒	zuì hèn pō pēi xīn shú jiǔ	6
 醉后哀歌缺唾壶	zuì hòu āi gē quē tuò hú	6
 醉后不知斜日晚	zuì hòu bù zhī xié rì wǎn	6
@@ -323782,6 +323792,7 @@ sort: by_weight
 昨夜个人曾有约	zuó yè gè rén céng yǒu yuē	6
 昨夜故人泉下宿	zuó yè gù rén quán xià sù	6
 昨夜华堂歌舞人	zuó yè huá táng gē wǔ rén	6
+昨夜江边春水生	zuó yè jiāng biān chūn shuǐ shēng	6
 昨夜将军连晓战	zuó yè jiāng jūn lián xiǎo zhàn	6
 昨夜今朝又明日	zuó yè jīn zhāo yòu míng rì	6
 昨夜酒行君屡叹	zuó yè jiǔ xíng jūn lǚ tàn	6
@@ -326565,7 +326576,7 @@ sort: by_weight
 何况四达之衢井先汲	hé kuàng sì dá zhī qú jǐng xiān jí	6
 和马郎中移白菊见示	hé mǎ láng zhōng yí bái jú jiàn shì	6
 何如高阳郦生醉落魄	hé rú gāo yáng lì shēng zuì luò pò	6
-何如占得人间一味愚	hé rú zhàn dé rén jiān yī wèi yú	6
+何如占得人间一味愚	hé rú zhàn dé rén jiān yí wèi yú	6
 何似黄石仙翁之三略	hé sì huáng shí xiān wēng zhī sān lüè	6
 何暇至乎人贵人贱哉	hé xiá zhì hū rén guì rén jiàn zāi	6
 何暇至于暴人之所行	hé xiá zhì yú bào rén zhī suǒ xíng	6

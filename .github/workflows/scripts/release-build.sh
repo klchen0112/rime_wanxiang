@@ -102,7 +102,7 @@ package_schema_pro() {
     if [[ -f "$LOOKUP_SRC" ]]; then
         cp "$LOOKUP_SRC" "$LOOKUP_DST"
         sed -i "s/^name:\s*wanxiang_chaifen_${SCHEMA_NAME}$/name: wanxiang_chaifen/" "$LOOKUP_DST"
-        sed -i 's/[ⒶⒷⒸⒹⒺⒻⒼ]//g' "$LOOKUP_DST"
+        sed -i 's/[ⒶⒷⒸⒹⒺⒻ]//g' "$LOOKUP_DST"
     fi
 
     # 3. 复制 schema 主文件
@@ -155,7 +155,7 @@ package_schema() {
     echo
 }
 
-SCHEMA_LIST=("base" "flypy" "hanxin" "jdh" "moqi" "tiger" "wubi" "zrm")
+SCHEMA_LIST=("base" "flypy" "hanxin" "moqi" "tiger" "wubi" "zrm")
 
 # 如果没有传入参数，则循环 package 所有的
 if [[ -z "$SCHEMA_NAME" ]]; then

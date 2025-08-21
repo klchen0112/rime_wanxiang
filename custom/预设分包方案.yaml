@@ -123,7 +123,13 @@ engine:
     - lua_filter@*text_formatting                   #给自定义用户词扩展一个换行:\n, 制表符：\t, 回车符：\r, 空格：\s
     - uniquifier                                    #去重
 
-#shijian:仅仅作为提示使用，编码已经写死，引导适应性更高，如有需求lua中修改
+# Tips 配置项
+tips:
+  # 禁用的 tips 类型，初始化 tips 数据库的时候会直接忽略相关规则，修改部署后生效
+  # 可选项为：偏旁，符号，化学式，时间，符号，组字，翻译，表情，货币，车牌
+  disabled_types: []
+
+#shijian:仅仅作为提示使用，编码已经写死，引导键可以在key_binder下修改前缀
 #时间：osj 或者 /sj
 #日期：orq 或者 /rq
 #农历：onl 或者 /nl
@@ -296,7 +302,7 @@ recognizer:
     number: "^R[0-9]+[.]?[0-9]*"        # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_translator，数字金额大写
     gregorian_to_lunar: "^N[0-9]{1,8}"  # 脚本将自动获取第 2 个字符 N 作为触发前缀，响应 lua_translator@lunar，公历转农历，输入 N20240115 得到「二〇二三年腊月初五」
     calculator: "^V.*$"                 #计算器功能引导，，，，
-    quick_symbol: "^;.*$"  # 快符引导，例如输入;q 后自动上屏快速符号，双击;;重复上屏
+    quick_symbol: "^;.*$"  # 快符引导，例如输入;q 后自动上屏快速符号，双击;;上屏中文分号本身，如果你想使用顿号 可以改成"^\\\\.*$"，双击输出、而;'输出重复上屏内容
 
 # 标点符号
 # punctuator 下面有三个子项：
@@ -314,6 +320,9 @@ punctuator:
 # 从 default 继承快捷键
 key_binder:
   import_preset: default  # 从 default.yaml 继承通用的
+  # Lua 配置: 以词定字（上屏当前词句的第一个或最后一个字），和中括号翻页有冲突
+  select_first_character: "bracketleft"  # 左中括号 [
+  select_last_character: "bracketright"  # 右中括号 ]
   sequence: # Lua 配置：手动排序的快捷键 super_sequence.lua，不要用方向键，各种冲突，一定要避免冲突
     up: "Control+j"    # 上移
     down: "Control+k"  # 下移
@@ -395,16 +404,18 @@ speller:
   # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA7890`;/
   # initials 定义仅作为始码的按键，排除 ` 让单个的 ` 可以直接上屏
-  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/
-  delimiter: "''"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`/
+  delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
   algebra:
     __patch:
+      #- 模糊音             #模糊音选择性开启
       - set_shuru_schema     #拼音转双拼码
       - set_fuzhu_schema     #辅助码部分
-#      - mohuyin             #模糊音选择性开启
+
 ###############################以下是拼写运算规则中全拼转双拼码以及形码的过程，按照不同的方案规则划分段落###########################
 全拼: 
-  __append: 
+  __append:
+    - xform/Ⅰ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -440,6 +451,7 @@ speller:
 
 自然码: 
   __append:
+    - xform/Ⅱ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -504,6 +516,7 @@ speller:
     - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
 自然龙:    #原作者项目地址： https://github.com/rimeinn/rime-zrlong
   __append:
+    - xform/Ⅺ//  #用于Lua判断输入类型的标记
     - xform/^ēr/eQ/
     - xform/^ér/eK/
     - xform/^ěr/eU/
@@ -566,6 +579,7 @@ speller:
     - xlit/QWERTYUIOPASDFGHMJCKLZXVBN/qwertyuiopasdfghmjcklzxvbn/
 汉心龙:    #原作者项目地址： https://hanxinma.gitlab.io/longma/
   __append:
+    - xform/Ⅻ//  #用于Lua判断输入类型的标记
     - xform/^(a|ā|á|ǎ|à)/Q$1/
     - xform/^(o|ō|ó|ǒ|ò)/R$1/
     - xform/^(e|ē|é|ě|è)/B$1/
@@ -703,6 +717,7 @@ speller:
     - xlit/QWERTYUIOPASDFGHMJCKLZXVBN¥&/qwertyuiopasdfghmjcklzxvbnfc/
 小鹤双拼: 
   __append:
+    - xform/Ⅲ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -768,6 +783,7 @@ speller:
 
 微软双拼: 
   __append:
+    - xform/Ⅳ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -833,8 +849,9 @@ speller:
     - xform/^ch/Ⓘ/
     - xform/^zh/Ⓥ/
     - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
-搜狗双拼: 
+搜狗双拼:
   __append:
+    - xform/Ⅴ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -900,8 +917,9 @@ speller:
     - xform/^zh/Ⓥ/
     - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
 
-紫光双拼: 
+紫光双拼:
   __append:
+    - xform/Ⅶ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -966,8 +984,9 @@ speller:
     - xform/^ch/Ⓐ/
     - xlit/ⓌⓉⓎⓊⒾⓄⓅⒶⒼⓈⒹⒻⒽⒿⓀⓁⓏⓍⒷⓃⓂⓆⓇ/wtyuiopagsdfhjklzxbnmqr/
 
-智能ABC: 
+智能ABC:
   __append:
+    - xform/Ⅵ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -1033,6 +1052,7 @@ speller:
 
 国标双拼:
   __append:
+    - xform/Ⅸ//  #用于Lua判断输入类型的标记
     - xform/^([a-z]+)(;.*)$/$1④$2/
     - xform/^(.*)ā(.*)(;.*)$/$1a$2①$3/
     - xform/^(.*)á(.*)(;.*)$/$1a$2②$3/
@@ -1176,15 +1196,41 @@ speller:
     - derive|^(.*?)(\d?);.*?,.*?,.*?,(\w)(\w).*$|$1$2/$3$4| # 双拼+直接声调+/间接2位辅助码的情况
     - erase/^(.+);(.+)$/    # 删除原始编码加速检索
     - xform/◯/;/  #对于微软双拼、搜狗双拼，前面将分号保护了起来，现在放出来让其发挥作用
-mohuyin:
+模糊音: 
   __append:
-    # 模糊音 可选择性开启
-    - derive/^z([a-z])/v$1/
-    - derive/^c([a-z])/i$1/
-    - derive/^s([a-z])/u$1/
-    - derive/^v([a-z])/z$1/
-    - derive/^i([a-z])/c$1/
-    - derive/^u([a-z])/s$1/
+    # n - l
+    - derive/^l/n
+    - derive/^n/l
+    # r - y     开头
+    - derive/^y/r
+    - derive/^r/y
+    # h - f     开头
+    - derive/^h/f
+    - derive/^f/h
+    # r - l     开头
+    - derive/^r/l
+    - derive/^l/r
+    # k - g     开头
+    - derive/^k/g
+    - derive/^g/k
+    # an - ang
+    - derive/([ui]?)([āáǎàa])ng(.*)$/$1$2n$3
+    - derive/([ui]?)([āáǎàa])n(.*)$/$1$2ng$3
+    # en - eng
+    - derive/([ēéěèe])ng(.*)$/$1n$2
+    - derive/([ēéěèe])n(.*)$/$1ng$2
+    # in - ing
+    - derive/([īíǐìi])ng(.*)$/$1n$2
+    - derive/([īíǐìi])n(.*)$/$1ng$2
+    # c - ch
+    - derive/^c([^h]*)/ch$1
+    - derive/^ch/c
+    # z - zh
+    - derive/^z([^h]*)/zh$1
+    - derive/^zh/z
+    # s - sh
+    - derive/^s([^h]*)/sh$1
+    - derive/^sh/s
 
 user_dict_set:
   dictionary: wanxiang_pro
